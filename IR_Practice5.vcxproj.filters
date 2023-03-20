@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="Utilities.h" />
+    <ClInclude Include="BitVectorAdapted.h">
+      <Filter>Adaptive Containers\Singular</Filter>
+    </ClInclude>
+    <ClInclude Include="CoordMapAdapted.h">
+      <Filter>Adaptive Containers\Singular</Filter>
+    </ClInclude>
+    <ClInclude Include="DichotomicAdapters.h">
+      <Filter>Adaptive Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="MapAdapted.h">
+      <Filter>Adaptive Containers\Dichotomic</Filter>
+    </ClInclude>
+    <ClInclude Include="SetAdapted.h">
+      <Filter>Adaptive Containers\Singular</Filter>
+    </ClInclude>
+    <ClInclude Include="SingularAdapters.h">
+      <Filter>Adaptive Containers</Filter>
+    </ClInclude>
+    <ClInclude Include="USetAdapted.h">
+      <Filter>Adaptive Containers\Singular</Filter>
+    </ClInclude>
+    <ClInclude Include="VectorAdapted.h">
+      <Filter>Adaptive Containers\Singular</Filter>
+    </ClInclude>
+    <ClInclude Include="UMapAdapter.h">
+      <Filter>Adaptive Containers\Dichotomic</Filter>
+    </ClInclude>
+    <ClInclude Include="PairedVectorAdapted.h">
+      <Filter>Adaptive Containers\Dichotomic</Filter>
+    </ClInclude>
+    <ClInclude Include="Dictionary.h">
+      <Filter>Dictionary</Filter>
+    </ClInclude>
+    <ClInclude Include="USetPolicy.h">
+      <Filter>Dictionary\Policies</Filter>
+    </ClInclude>
+    <ClInclude Include="DefaultAddPolicy.h">
+      <Filter>Dictionary\Policies</Filter>
+    </ClInclude>
+    <ClInclude Include="DocumentIndexer.h">
+      <Filter>Indexing</Filter>
+    </ClInclude>
+    <ClInclude Include="CoordinateInvertedIndex.h">
+      <Filter>Indexing</Filter>
+    </ClInclude>
+    <ClInclude Include="InvertedIndexer.h">
+      <Filter>Indexing</Filter>
+    </ClInclude>
+    <ClInclude Include="TwoWordIndexer.h">
+      <Filter>Indexing</Filter>
+    </ClInclude>
+    <ClInclude Include="IncidenceMatrix.h">
+      <Filter>Indexing</Filter>
+    </ClInclude>
+    <ClInclude Include="IFiller.h">
+      <Filter>Reading\Fillers</Filter>
+    </ClInclude>
+    <ClInclude Include="CoordinateReader.h">
+      <Filter>Reading\Fillers</Filter>
+    </ClInclude>
+    <ClInclude Include="Encoding.h">
+      <Filter>Reading</Filter>
+    </ClInclude>
+    <ClInclude Include="FileTypes.h">
+      <Filter>Reading</Filter>
+    </ClInclude>
+    <ClInclude Include="IFileReader.h">
+      <Filter>Reading\File Readers</Filter>
+    </ClInclude>
+    <ClInclude Include="LineFileReader.h">
+      <Filter>Reading\File Readers</Filter>
+    </ClInclude>
+    <ClInclude Include="LineReader.h">
+      <Filter>Reading\Fillers</Filter>
+    </ClInclude>
+    <ClInclude Include="ISerializer.h">
+      <Filter>Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="DocumentIndexerSerializer.h">
+      <Filter>Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="TextFileSerializer.h">
+      <Filter>Serialization</Filter>
+    </ClInclude>
+    <ClInclude Include="BooleanSearch.h">
+      <Filter>Testing</Filter>
+    </ClInclude>
+    <ClInclude Include="DictionaryTesting.h">
+      <Filter>Testing</Filter>
+    </ClInclude>
+    <ClInclude Include="IndexersTesting.h">
+      <Filter>Testing</Filter>
+    </ClInclude>
+    <ClInclude Include="IQueryHandler.h">
+      <Filter>Tolerant Search\Query Handling</Filter>
+    </ClInclude>
+    <ClInclude Include="IAsteriskQueryHandler.h">
+      <Filter>Tolerant Search\Query Handling\Asterisk Handlers</Filter>
+    </ClInclude>
+    <ClInclude Include="TrieAsteriskHandler.h">
+      <Filter>Tolerant Search\Query Handling\Asterisk Handlers</Filter>
+    </ClInclude>
+    <ClInclude Include="ReversedReaderDecorator.h">
+      <Filter>Reading\File Readers</Filter>
+    </ClInclude>
+    <ClInclude Include="AStandardFiller.h">
+      <Filter>Reading\Fillers\StandardFillers</Filter>
+    </ClInclude>
+    <ClInclude Include="OptimizedDictionaryStandardFiller.h">
+      <Filter>Reading\Fillers\StandardFillers</Filter>
+    </ClInclude>
+    <ClInclude Include="TwoWordIndexerStandardFiller.h">
+      <Filter>Reading\Fillers\StandardFillers</Filter>
+    </ClInclude>
+    <ClInclude Include="Trie.h">
+      <Filter>Tolerant Search\Trie</Filter>
+    </ClInclude>
+    <ClInclude Include="TrieContainer.h">
+      <Filter>Tolerant Search\Trie</Filter>
+    </ClInclude>
+    <ClInclude Include="TrieIterator.h">
+      <Filter>Tolerant Search\Trie</Filter>
+    </ClInclude>
+    <ClInclude Include="TrieNode.h">
+      <Filter>Tolerant Search\Trie</Filter>
+    </ClInclude>
+    <ClInclude Include="PermutermIndexStandardFiller.h">
+      <Filter>Reading\Fillers\StandardFillers</Filter>
+    </ClInclude>
+    <ClInclude Include="PermutermIndexAsteriskHandler.h">
+      <Filter>Tolerant Search\Query Handling\Asterisk Handlers</Filter>
+    </ClInclude>
+    <ClInclude Include="KGramIndexStandardFiller.h">
+      <Filter>Reading\Fillers\StandardFillers</Filter>
+    </ClInclude>
+    <ClInclude Include="KGramIndexer.h">
+      <Filter>Tolerant Search</Filter>
+    </ClInclude>
+    <ClInclude Include="KGramAsteriskHandler.h">
+      <Filter>Tolerant Search\Query Handling\Asterisk Handlers</Filter>
+    </ClInclude>
+    <ClInclude Include="TolerantSearchTesting.h">
+      <Filter>Testing</Filter>
+    </ClInclude>
+    <ClInclude Include="TwowordCoordinateIndicesTesting.h">
+      <Filter>Testing</Filter>
+    </ClInclude>
+    <ClInclude Include="SPIMIFiller.h">
+      <Filter>SPIMI</Filter>
+    </ClInclude>
+    <ClInclude Include="SPIMIBlock.h">
+      <Filter>SPIMI</Filter>
+    </ClInclude>
+    <ClInclude Include="SPIMITesting.h">
+      <Filter>Testing</Filter>
+    </ClInclude>
+    <ClInclude Include="IRefreshableFiller.h">
+      <Filter>SPIMI</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Adaptive Containers">
+      <UniqueIdentifier>{241efacd-2575-45d4-b799-c54e00924d5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Adaptive Containers\Singular">
+      <UniqueIdentifier>{53aec09e-3ee4-4d87-8227-739caa24e43a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Adaptive Containers\Dichotomic">
+      <UniqueIdentifier>{bdf02484-48ad-4c34-bbd2-56814f49fe2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dictionary">
+      <UniqueIdentifier>{d88d1294-e7af-430b-9695-646ded786e23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Dictionary\Policies">
+      <UniqueIdentifier>{9347e2f5-1724-45a9-b138-2442be79bdc4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Indexing">
+      <UniqueIdentifier>{441bdace-7a91-490f-abbf-a5a5b89afc9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Reading">
+      <UniqueIdentifier>{3871336a-a56f-4511-ae23-3afee8de3655}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Reading\File Readers">
+      <UniqueIdentifier>{95ad2326-ec1b-440c-ad34-759710d4f5f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Reading\Fillers">
+      <UniqueIdentifier>{a95790c2-041a-49de-a05f-49d1b2d71e29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Serialization">
+      <UniqueIdentifier>{d63d48a1-c666-4810-947a-952f4fcf9956}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Testing">
+      <UniqueIdentifier>{28900162-aace-4e51-aad7-a2bfe543203b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tolerant Search">
+      <UniqueIdentifier>{1e71fd0c-0c53-4ee8-88f8-5fcac34ad4e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Reading\Fillers\StandardFillers">
+      <UniqueIdentifier>{24965a8e-c9c5-4ad0-a37e-0cbe034a83e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tolerant Search\Trie">
+      <UniqueIdentifier>{6adc36de-6868-4455-b4c8-ad5db3e9b565}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tolerant Search\Query Handling">
+      <UniqueIdentifier>{d74b9a15-f517-4fe0-bc19-5e8a4f8131a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Tolerant Search\Query Handling\Asterisk Handlers">
+      <UniqueIdentifier>{708d3211-3885-408a-aead-7a9b643d0851}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SPIMI">
+      <UniqueIdentifier>{75a3b300-c640-4f8b-89d1-3d5f6cd62ec0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
