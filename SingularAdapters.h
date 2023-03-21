@@ -98,6 +98,8 @@ public:																					\
 public:																					\
 	constexpr _Name() : container_{} {}													\
 	constexpr _Name(std::initializer_list<value_type> init) : container_{init} {}		\
+	constexpr _Name(const _Name &) = default;                                           \
+	constexpr _Name& operator=(const _Name &) = default;                                \
 	constexpr _Name(_Name&& container) noexcept :										\
 		container_{ std::move(container.container_) } {}								\
 	~_Name() override = default;														\
