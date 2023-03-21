@@ -1,0 +1,5004 @@
+2
+Input Files/3.txt
+Input Files/4.txt
+0 5000
+a 2 0 1 
+aas 1 1 
+aback 1 1 
+abandoned 2 0 1 
+abated 1 1 
+abiding 1 1 
+ability 1 1 
+able 2 0 1 
+ably 1 1 
+abode 1 1 
+about 2 0 1 
+abouter 1 1 
+above 1 1 
+abroad 1 1 
+abruptly 1 1 
+absence 1 1 
+absent 1 1 
+absolutely 1 1 
+absolutelycsars 1 1 
+absurd 1 1 
+absurdon 1 1 
+accept 2 0 1 
+accepted 2 0 1 
+accepting 1 1 
+accident 1 1 
+accidental 1 1 
+accidents 1 1 
+accidentthats 1 1 
+accompanying 1 1 
+accomplished 1 1 
+accord 1 1 
+accordance 1 1 
+according 1 1 
+accordingly 1 1 
+account 1 1 
+accounted 1 1 
+accumulated 1 0 
+accurate 1 1 
+accurately 1 1 
+accusation 1 1 
+accusations 1 1 
+accusationsthey 1 1 
+accused 1 1 
+accuses 1 1 
+accusing 2 0 1 
+ached 1 1 
+acid 1 1 
+acidly 1 1 
+acknowledged 1 0 
+acknowledgments 1 0 
+acquaintanceship 1 1 
+acquainted 1 1 
+acquiesced 1 1 
+acquiescent 1 1 
+acquired 1 0 
+acquit 1 1 
+acquittal 1 1 
+acre 1 0 
+acres 1 0 
+across 2 0 1 
+act 1 1 
+acted 2 0 1 
+action 1 1 
+actionher 1 1 
+actions 1 1 
+active 1 1 
+activities 1 1 
+activity 1 1 
+acts 1 1 
+actual 1 1 
+actually 2 0 1 
+acute 1 1 
+ad 1 1 
+add 1 1 
+added 2 0 1 
+addition 1 1 
+address 2 0 1 
+addressed 1 1 
+addressing 1 1 
+adjoined 1 1 
+adjoining 1 1 
+adjourn 1 1 
+adjusting 1 1 
+administer 1 1 
+administered 1 1 
+administering 1 1 
+administration 1 1 
+admiralty 1 1 
+admired 1 0 
+admiringly 1 1 
+admiringlyhis 1 1 
+admit 1 1 
+admits 1 1 
+admitted 1 1 
+admonitory 1 1 
+adopt 1 1 
+adopted 1 1 
+adroitly 1 1 
+adventures 1 1 
+adventurous 1 1 
+adversity 1 0 
+advertisements 1 1 
+advice 1 1 
+advise 1 1 
+affably 1 1 
+affairs 1 1 
+affection 1 1 
+affects 1 1 
+afford 2 0 1 
+afraid 2 0 1 
+africa 1 1 
+african 1 1 
+africas 1 1 
+after 2 0 1 
+afternoon 2 0 1 
+afterthought 1 0 
+afterward 1 0 
+afterwards 1 1 
+again 2 0 1 
+againsomeone 1 1 
+against 1 1 
+againto 1 1 
+agatha 1 1 
+age 1 1 
+aged 1 1 
+agency 1 1 
+agents 1 0 
+aggressively 1 1 
+aging 1 0 
+ago 1 1 
+agree 1 1 
+agreeable 1 1 
+agreed 2 0 1 
+agreement 1 1 
+agrees 1 1 
+ah 1 1 
+ahead 1 1 
+air 2 0 1 
+alarmed 1 1 
+alert 1 1 
+alibi 1 1 
+alight 1 1 
+alive 2 0 1 
+all 2 0 1 
+allow 1 1 
+allowed 1 1 
+allowing 1 0 
+allrather 1 1 
+allthat 1 1 
+allwhat 1 1 
+almighty 1 1 
+almost 2 0 1 
+alone 1 1 
+alonealone 1 1 
+along 2 0 1 
+alongside 1 1 
+aloud 1 1 
+already 1 1 
+also 2 0 1 
+altered 1 1 
+alternative 1 1 
+although 1 0 
+altogether 1 1 
+always 2 0 1 
+am 1 1 
+american 1 1 
+among 1 1 
+amongst 1 1 
+amount 2 0 1 
+ampoule 1 1 
+amuse 1 1 
+amused 1 1 
+amusing 1 1 
+amyl 1 1 
+an 2 0 1 
+anaesthetic 1 1 
+and 2 0 1 
+andand 1 1 
+anew 1 1 
+anger 2 0 1 
+angrily 1 1 
+angry 1 1 
+angularities 1 1 
+animal 1 1 
+annoyed 2 0 1 
+annoying 1 1 
+another 2 0 1 
+answer 2 0 1 
+answered 1 1 
+answering 2 0 1 
+answers 1 1 
+anthony 1 1 
+anthonys 1 1 
+antique 1 0 
+anxious 1 1 
+anxiously 1 1 
+any 2 0 1 
+anybody 1 1 
+anyershortcomings 1 1 
+anyhow 1 1 
+anymore 1 1 
+anyone 1 1 
+anything 2 0 1 
+anythingillegal 1 1 
+anyway 1 1 
+anywayshe 1 1 
+anywhere 2 0 1 
+anywherejust 1 1 
+apart 1 0 
+apartment 1 0 
+apartments 1 0 
+apiece 1 0 
+apologizing 1 0 
+appalachian 1 0 
+apparelled 1 1 
+apparently 1 1 
+apparentlyand 1 1 
+apparition 1 1 
+appeal 1 1 
+appear 1 1 
+appearance 1 1 
+appeared 2 0 1 
+appearing 1 1 
+appears 1 1 
+apples 1 0 
+appliances 1 1 
+applied 1 0 
+appraised 1 0 
+appraising 1 0 
+appreciate 2 0 1 
+appreciated 1 0 
+appreciating 1 1 
+appreciatively 1 1 
+apprehension 1 1 
+approach 1 1 
+approached 1 1 
+approaching 1 1 
+approval 2 0 1 
+approve 1 1 
+approvingly 1 1 
+arbor 1 0 
+architecture 1 0 
+ardent 1 1 
+are 2 0 1 
+area 1 0 
+arent 1 1 
+arguing 1 1 
+argument 2 0 1 
+arguments 1 1 
+arizona 1 0 
+arm 1 1 
+armitage 1 1 
+armour 1 1 
+arms 2 0 1 
+armstrong 1 1 
+armstrongs 1 1 
+army 1 1 
+around 2 0 1 
+arraigned 1 0 
+arraignment 1 0 
+arrangements 1 1 
+arrest 1 0 
+arrested 2 0 1 
+arrive 1 1 
+arrived 2 0 1 
+arrives 1 1 
+arrogant 1 1 
+arsenal 1 1 
+arsenic 1 1 
+art 1 0 
+arthur 1 1 
+arthurhed 1 1 
+article 1 0 
+articles 1 0 
+artist 1 0 
+as 2 0 1 
+asas 1 1 
+ascended 1 1 
+ascertained 1 1 
+aside 1 1 
+ask 2 0 1 
+asked 2 0 1 
+asking 2 0 1 
+asleep 1 1 
+asphyxiation 1 1 
+aspirins 1 1 
+assemble 1 1 
+assembled 1 1 
+assent 1 1 
+assentand 1 1 
+assenting 1 1 
+assert 1 1 
+assessing 1 0 
+asshole 1 0 
+assisted 1 1 
+assorted 1 1 
+assumed 1 1 
+assuming 1 1 
+assure 1 1 
+assured 1 1 
+assuredeasier 1 1 
+assures 1 1 
+astor 1 0 
+at 2 0 1 
+ate 1 0 
+atlantic 1 1 
+atmosphere 1 1 
+attached 1 1 
+attack 2 0 1 
+attacked 1 1 
+attend 1 1 
+attending 1 1 
+attention 1 1 
+attic 1 1 
+attire 1 0 
+attitudeyes 1 1 
+attractive 1 1 
+attractivea 1 1 
+august 1 1 
+aura 1 1 
+author 2 0 1 
+authority 2 0 1 
+authors 1 1 
+autobiography 1 1 
+automatically 1 1 
+autopsy 1 1 
+avent 1 1 
+avenue 1 0 
+aversion 1 1 
+avoided 2 0 1 
+awaiting 1 1 
+awake 2 0 1 
+awakening 1 1 
+aware 1 1 
+away 2 0 1 
+awayit 1 0 
+awayout 1 1 
+awayright 1 1 
+awe 1 1 
+awful 2 0 1 
+awfully 1 1 
+awhile 1 0 
+awkward 1 1 
+awning 1 0 
+awoke 1 1 
+ax 1 0 
+babble 1 0 
+babel 1 1 
+back 2 0 1 
+backrest 1 0 
+backthat 1 1 
+bacon 1 1 
+bad 2 0 1 
+badger 1 1 
+badly 1 1 
+baffling 1 1 
+bag 2 0 1 
+bags 1 0 
+bail 1 0 
+baked 1 0 
+balance 1 1 
+bald 1 1 
+ball 1 1 
+balls 1 0 
+bamboo 1 0 
+banged 1 0 
+bank 1 1 
+bar 1 1 
+bare 2 0 1 
+barked 1 1 
+barmy 1 1 
+bartender 1 0 
+baseball 1 0 
+basement 1 0 
+bask 1 1 
+basketball 1 0 
+bath 1 1 
+bathroom 1 1 
+battle 1 1 
+bay 1 1 
+be 2 0 1 
+beach 1 1 
+beaches 1 1 
+beams 1 0 
+beans 1 1 
+bear 2 0 1 
+beard 1 0 
+bearing 1 1 
+beast 1 1 
+beastly 1 1 
+beatbut 1 1 
+beaten 1 1 
+beating 1 1 
+beatrice 1 1 
+beats 1 1 
+beautiful 2 0 1 
+beautifully 1 1 
+became 2 0 1 
+because 2 0 1 
+beckoning 1 1 
+become 2 0 1 
+becoming 1 1 
+bed 2 0 1 
+bedouin 1 1 
+bedroom 1 1 
+bedroomlater 1 1 
+beds 2 0 1 
+bedside 1 1 
+bedsidethere 1 1 
+bee 1 1 
+been 2 0 1 
+beenrather 1 1 
+beenyes 1 1 
+beer 1 1 
+before 2 0 1 
+beg 1 1 
+began 2 0 1 
+begin 2 0 1 
+beginning 1 1 
+begins 1 1 
+begun 1 1 
+behaved 1 1 
+behaviour 1 1 
+behind 2 0 1 
+being 2 0 1 
+belhaven 1 1 
+belief 1 1 
+believe 2 0 1 
+believed 1 1 
+bell 2 0 1 
+belonged 1 0 
+belongings 2 0 1 
+below 1 1 
+bench 1 1 
+benches 1 0 
+bend 1 0 
+bending 1 1 
+beneath 2 0 1 
+benefit 1 0 
+bent 1 1 
+berkeley 1 1 
+beside 2 0 1 
+besides 1 1 
+best 2 0 1 
+bet 1 1 
+bethe 1 1 
+betrayed 1 1 
+better 2 0 1 
+between 2 0 1 
+bewildered 1 1 
+bewilderment 1 1 
+beyond 1 1 
+bible 1 1 
+big 2 0 1 
+bills 1 0 
+birth 1 0 
+biscuits 1 1 
+bit 1 1 
+biting 1 1 
+bitterly 1 1 
+bituminous 1 0 
+bizarre 1 1 
+black 2 0 1 
+blades 1 0 
+blame 1 1 
+blamed 1 0 
+blaming 1 0 
+blankets 1 0 
+blared 1 1 
+blast 1 1 
+blaze 1 1 
+bleached 1 0 
+bleary 1 1 
+bless 1 1 
+blessed 1 1 
+blinked 1 1 
+block 1 1 
+blocking 1 1 
+blond 1 0 
+blooded 1 1 
+bloodless 1 1 
+bloody 1 0 
+blore 1 1 
+blores 1 1 
+blow 1 1 
+blowing 1 1 
+blown 1 1 
+blue 2 0 1 
+bluemornings 1 1 
+bluff 1 1 
+blunders 1 1 
+blurting 1 1 
+board 1 0 
+boards 1 0 
+boat 1 1 
+boatmana 1 1 
+boats 1 1 
+bobbing 1 1 
+body 2 0 1 
+bodys 1 1 
+bogus 1 1 
+boiled 1 1 
+boldly 1 1 
+bolting 1 1 
+bolts 1 1 
+bonanza 1 0 
+bone 1 0 
+bones 1 1 
+bonfire 1 1 
+bonnet 1 1 
+boohooing 1 0 
+book 2 0 1 
+bookeh 1 1 
+books 2 0 1 
+boom 1 1 
+booze 1 0 
+border 1 0 
+borderline 1 1 
+bored 1 1 
+boredom 1 1 
+boring 1 0 
+born 1 1 
+borne 1 1 
+borrow 1 0 
+borrowed 1 0 
+both 2 0 1 
+bottle 1 0 
+bottles 1 1 
+bottom 1 1 
+bought 2 0 1 
+boughtby 1 1 
+bound 1 1 
+bowed 1 1 
+bowing 1 1 
+box 1 1 
+boy 1 1 
+boyfriends 1 0 
+boymorris 1 1 
+boys 1 1 
+brady 1 1 
+brain 1 1 
+brains 1 1 
+branch 1 1 
+brandy 1 1 
+brass 1 0 
+brasswondering 1 1 
+brave 1 0 
+brazen 1 1 
+bread 2 0 1 
+break 1 0 
+breakfast 1 1 
+breaking 1 1 
+breast 1 1 
+breath 2 0 1 
+breathed 1 1 
+breathing 1 1 
+breathlessly 1 1 
+breaththen 1 1 
+breezily 1 1 
+brent 1 1 
+brentin 1 1 
+brentmiss 1 1 
+brents 1 1 
+brian 1 0 
+brians 1 0 
+brick 2 0 1 
+bricks 1 1 
+bridges 1 0 
+brief 1 1 
+briefly 1 1 
+bright 2 0 1 
+brightly 1 0 
+bring 1 1 
+bringing 2 0 1 
+brings 1 1 
+brisk 1 1 
+briskly 1 1 
+broad 1 0 
+broke 2 0 1 
+broken 1 1 
+bronx 1 0 
+brooch 1 1 
+brooding 1 1 
+brooklyn 1 0 
+brother 2 0 1 
+brothers 1 1 
+brothersour 1 1 
+brought 2 0 1 
+brow 1 1 
+brown 2 0 1 
+brusquely 1 1 
+brute 1 1 
+bucket 1 0 
+bug 1 1 
+build 2 0 1 
+building 2 0 1 
+buildings 2 0 1 
+built 1 1 
+bulbs 1 0 
+bulky 1 0 
+bull 2 0 1 
+bullying 1 1 
+bum 1 0 
+bumble 1 1 
+bumps 1 1 
+bungle 1 1 
+bungled 1 1 
+burden 1 1 
+burn 1 0 
+burst 1 1 
+bus 1 0 
+bush 1 1 
+bushy 1 1 
+business 2 0 1 
+busy 2 0 1 
+but 2 0 1 
+butler 1 1 
+butt 1 0 
+buttons 1 0 
+buy 2 0 1 
+buying 1 0 
+buzzards 1 0 
+by 2 0 1 
+c 1 1 
+cable 1 0 
+cairngorm 1 1 
+calendars 1 0 
+california 1 0 
+call 2 0 1 
+called 2 0 1 
+calling 1 0 
+calm 2 0 1 
+calmed 1 1 
+calmly 1 1 
+cambridge 1 1 
+came 2 0 1 
+campaign 1 0 
+can 2 0 1 
+candle 1 0 
+cannot 1 1 
+canon 1 1 
+cant 2 0 1 
+canvas 1 0 
+cap 2 0 1 
+capable 1 1 
+capablegiven 1 1 
+capacity 1 1 
+cape 1 0 
+capitals 1 1 
+caprice 1 0 
+capricious 1 1 
+captain 1 1 
+car 2 0 1 
+cardiac 1 1 
+care 2 0 1 
+career 2 0 1 
+carefully 2 0 1 
+carelessly 1 1 
+carlo 1 1 
+caroline 1 1 
+carriage 1 1 
+carried 2 0 1 
+carries 1 1 
+carry 1 1 
+carrying 2 0 1 
+cars 1 1 
+carved 1 0 
+cascara 1 1 
+case 1 1 
+cases 1 1 
+cash 1 0 
+casserole 1 0 
+cast 1 1 
+castle 1 0 
+casual 1 1 
+cat 2 0 1 
+catch 1 1 
+catering 1 1 
+catholicism 1 0 
+cats 2 0 1 
+caught 1 1 
+cause 1 1 
+caused 1 1 
+causes 1 1 
+caustic 1 1 
+caution 1 1 
+cautious 1 1 
+cautiously 1 1 
+cave 1 1 
+cavernous 1 1 
+caves 1 1 
+cedar 1 0 
+ceiling 2 0 1 
+ceilings 1 0 
+central 1 0 
+centre 1 1 
+ceremonies 1 0 
+certain 1 1 
+certainly 1 1 
+certainty 1 1 
+certificate 1 1 
+chair 1 1 
+chairs 1 1 
+chambers 1 1 
+chance 1 1 
+chanceand 1 1 
+chancery 1 1 
+change 2 0 1 
+changed 1 1 
+changing 1 1 
+chaos 1 0 
+chaotic 1 1 
+chap 1 1 
+chapter 1 1 
+character 1 1 
+characteristic 1 1 
+characters 1 1 
+charge 2 0 1 
+charged 1 1 
+charismatic 1 0 
+charlie 1 0 
+charming 1 1 
+chastisement 1 1 
+chat 1 1 
+chatted 1 1 
+cheapest 1 0 
+cheapislands 1 1 
+check 1 0 
+cheeks 2 0 1 
+cheered 1 1 
+cheerful 1 1 
+cheerfully 1 1 
+cheery 1 1 
+cheese 1 1 
+cheetah 1 0 
+chemical 1 0 
+cheque 1 1 
+chest 2 0 1 
+child 2 0 1 
+childcyril 1 1 
+childhood 1 1 
+childish 1 1 
+childno 1 1 
+childrensecretarial 1 1 
+chimed 1 0 
+chin 1 1 
+china 2 0 1 
+chipper 1 0 
+chips 1 0 
+choked 2 0 1 
+chokedchoked 1 1 
+choking 1 1 
+chopped 1 1 
+chopping 1 1 
+chorus 1 1 
+chosen 2 0 1 
+christian 1 1 
+christie 1 1 
+christmas 1 0 
+chromium 1 1 
+chteauneuf 1 1 
+chuckled 1 0 
+chuckling 1 0 
+church 1 1 
+churned 1 1 
+cid 1 1 
+cigar 1 1 
+cigarette 2 0 1 
+cigarettes 1 0 
+circular 1 1 
+circumstances 1 1 
+cisterns 1 1 
+city 1 0 
+claim 1 1 
+clam 1 1 
+clambered 1 1 
+clammy 1 1 
+clanged 1 0 
+clarity 1 1 
+class 2 0 1 
+classy 1 1 
+claythorne 1 1 
+clean 2 0 1 
+clear 2 0 1 
+clearance 1 1 
+cleared 2 0 1 
+clearing 1 1 
+clearly 1 1 
+clearuna 1 1 
+clees 1 1 
+clenched 1 1 
+clever 1 1 
+cleverpam 1 1 
+clichs 1 1 
+client 1 1 
+cliff 1 1 
+cliffs 1 1 
+climbed 2 0 1 
+climbs 1 1 
+clink 1 1 
+clipped 1 1 
+clock 1 1 
+close 1 1 
+closed 2 0 1 
+closely 1 1 
+closet 1 0 
+clothes 2 0 1 
+clothing 1 0 
+clouds 1 1 
+clung 1 1 
+cluster 1 1 
+clutch 1 1 
+coal 1 0 
+coast 1 1 
+coats 1 0 
+cobwebs 1 1 
+cocked 1 1 
+cocktail 1 1 
+cocktails 1 1 
+coffee 1 1 
+coil 1 1 
+coiled 1 1 
+coincidence 1 1 
+cold 2 0 1 
+coldly 1 1 
+collapsed 1 1 
+colleague 1 1 
+colleagues 1 1 
+collecting 1 1 
+collections 1 0 
+college 1 0 
+colleges 1 0 
+colonel 1 1 
+colonials 1 1 
+colophon 1 0 
+colored 1 0 
+colossal 1 1 
+colour 1 1 
+column 1 0 
+com 1 0 
+combed 1 0 
+combes 1 1 
+come 2 0 1 
+comes 1 1 
+comesbut 1 1 
+comfortable 2 0 1 
+comfy 1 0 
+coming 2 0 1 
+comingwould 1 1 
+command 1 1 
+commanding 1 1 
+comment 1 0 
+comments 1 1 
+commercial 1 1 
+commit 1 1 
+committed 1 1 
+common 1 1 
+commonplace 1 1 
+communicate 1 1 
+communicating 1 1 
+communion 1 1 
+community 1 1 
+company 1 1 
+comparatively 1 1 
+compassed 1 1 
+compelling 1 1 
+competent 1 1 
+complete 1 1 
+completed 1 1 
+completely 2 0 1 
+complicity 1 1 
+compliment 1 1 
+complimented 1 1 
+composedly 1 1 
+compost 1 0 
+compulsion 1 0 
+concealed 1 1 
+concealments 1 1 
+concentrate 1 1 
+concerned 2 0 1 
+concerning 1 1 
+conclusion 1 1 
+conclusions 1 1 
+concurred 1 1 
+condition 1 1 
+condone 1 1 
+condoned 1 1 
+confident 1 1 
+confused 1 0 
+confusion 1 1 
+connected 1 1 
+connections 1 1 
+conscience 1 1 
+conscientiously 1 1 
+conscious 1 1 
+consent 1 1 
+consequence 1 1 
+consequences 1 1 
+consider 1 1 
+considerable 1 1 
+consideration 1 1 
+considered 1 1 
+considering 1 1 
+considers 1 1 
+consoled 1 0 
+conspired 1 1 
+constance 1 1 
+constanceand 1 1 
+constraint 1 1 
+consult 1 1 
+consultation 1 1 
+consulted 1 1 
+consulting 1 1 
+contadini 1 1 
+content 1 1 
+contents 2 0 1 
+continually 1 1 
+continued 1 1 
+contorted 1 1 
+contradict 1 1 
+contrast 1 1 
+contribution 1 1 
+contributor 1 0 
+conventionally 1 1 
+conversation 2 0 1 
+conversational 1 1 
+conversationally 1 1 
+convey 1 1 
+convicted 1 1 
+conviction 1 1 
+convictions 1 1 
+convinced 2 0 1 
+convincing 1 1 
+convulsed 1 1 
+cook 1 1 
+cooked 2 0 1 
+cooking 1 1 
+cool 1 1 
+cope 1 1 
+copyright 2 0 1 
+cord 1 1 
+cordial 1 1 
+corduroy 1 0 
+corner 2 0 1 
+corners 1 1 
+cornwall 1 1 
+coronation 1 1 
+coroner 1 1 
+coroners 1 1 
+correct 1 1 
+correctly 1 1 
+correspondent 1 1 
+correspondents 1 0 
+corroborate 1 1 
+cosh 1 1 
+cost 2 0 1 
+costs 1 1 
+costume 1 1 
+cottage 1 1 
+cottages 1 1 
+couch 1 0 
+cough 1 1 
+cougha 1 1 
+coughed 1 1 
+could 2 0 1 
+couldnt 2 0 1 
+counsel 1 1 
+count 1 0 
+counted 1 1 
+countenance 1 1 
+counting 1 1 
+country 2 0 1 
+county 1 1 
+couple 1 1 
+courage 1 1 
+course 2 0 1 
+coursebut 1 1 
+courseof 1 1 
+courseold 1 1 
+coursethat 1 1 
+court 2 0 1 
+courtroom 1 0 
+courts 1 1 
+cousin 1 1 
+cove 1 1 
+cover 2 0 1 
+covered 1 1 
+covering 1 0 
+covertly 1 1 
+coyotes 1 0 
+cracked 1 0 
+cracksshe 1 1 
+cramped 2 0 1 
+cranberry 1 0 
+crap 1 0 
+crash 1 1 
+crates 1 0 
+crawling 1 1 
+crazy 2 0 1 
+creak 1 1 
+creaking 1 1 
+creamed 1 0 
+created 1 0 
+creating 1 0 
+creature 1 1 
+creatures 1 1 
+creaturesis 1 1 
+credentials 1 1 
+credits 1 1 
+crept 1 1 
+crests 1 1 
+cried 1 1 
+crime 2 0 1 
+crimes 1 1 
+criminal 1 1 
+crimson 1 1 
+crisp 1 1 
+critic 1 1 
+critically 1 1 
+cronies 1 1 
+crook 1 1 
+cropping 1 0 
+cross 1 1 
+crossbeamed 1 0 
+crossing 1 1 
+crow 1 1 
+crowd 2 0 1 
+crowded 1 1 
+crown 1 1 
+crowned 1 1 
+cruel 1 1 
+crumbs 1 0 
+crumpled 1 1 
+cry 1 1 
+cucumber 1 1 
+culmington 1 1 
+cults 1 0 
+cup 1 1 
+cupid 1 1 
+cups 1 1 
+curiosity 1 1 
+curious 1 1 
+curiously 1 1 
+curling 1 1 
+current 2 0 1 
+curtain 1 1 
+curtains 1 1 
+curtly 1 1 
+cushions 1 1 
+custom 1 1 
+customer 1 1 
+customera 1 1 
+cut 2 0 1 
+cutlery 1 1 
+cuts 1 1 
+cyanide 1 1 
+cyanides 1 1 
+cyril 1 1 
+cyrils 1 1 
+d 1 1 
+dad 1 0 
+dads 1 0 
+dagger 1 1 
+dahlia 1 0 
+daily 1 0 
+dalmain 1 1 
+dam 1 1 
+dames 1 0 
+damn 2 0 1 
+damnable 1 1 
+damned 1 1 
+dance 1 0 
+dancers 1 0 
+dancing 2 0 1 
+danger 2 0 1 
+dangerous 1 1 
+dangerously 1 1 
+dark 2 0 1 
+darkened 1 1 
+darkness 1 1 
+darling 1 0 
+darn 1 0 
+darted 1 1 
+darting 1 1 
+dartmoor 1 1 
+date 1 1 
+daughter 1 0 
+david 1 1 
+davis 1 1 
+daviss 1 1 
+dawn 1 0 
+day 2 0 1 
+daybreak 1 1 
+days 2 0 1 
+dazed 1 0 
+dead 2 0 1 
+deadhes 1 1 
+deadly 1 1 
+deal 1 1 
+dealers 1 0 
+dealing 1 1 
+dealt 1 1 
+dear 1 1 
+dearest 1 1 
+death 1 1 
+deathand 1 1 
+deaths 1 1 
+deceive 1 1 
+deceived 1 1 
+deceivedthat 1 1 
+decent 2 0 1 
+decide 1 0 
+decided 1 0 
+decidedly 1 1 
+decision 1 1 
+decisively 1 1 
+deco 1 0 
+decorated 2 0 1 
+decorous 1 1 
+dedicated 1 1 
+dedication 2 0 1 
+deep 2 0 1 
+deeper 1 1 
+deeply 1 0 
+defects 1 1 
+defence 1 1 
+defended 1 1 
+defending 1 1 
+deferential 1 1 
+definite 1 1 
+definitejustnegation 1 1 
+definitely 1 1 
+delay 1 1 
+delayed 1 1 
+delayedunable 1 1 
+deliberately 1 1 
+delicate 1 1 
+delicately 1 1 
+delighted 1 1 
+delightful 1 1 
+demanded 1 1 
+demon 1 0 
+denied 1 0 
+denying 1 1 
+departed 1 1 
+departure 1 0 
+dependable 1 1 
+depends 1 1 
+deportment 1 1 
+deposit 1 0 
+depths 1 1 
+descended 1 1 
+describes 1 1 
+desert 1 0 
+deserted 1 1 
+designers 1 0 
+desire 1 1 
+despite 1 0 
+destruction 1 0 
+desultory 1 1 
+detached 1 1 
+detailed 1 0 
+details 1 1 
+detained 1 1 
+detective 2 0 1 
+determined 1 1 
+deuced 1 1 
+devastating 1 1 
+develop 1 0 
+developers 1 0 
+developing 1 0 
+devil 1 1 
+devilelderly 1 1 
+devoid 1 1 
+devon 1 1 
+devonbought 1 1 
+devonjust 1 1 
+devons 1 1 
+devoted 1 1 
+diagnosed 1 1 
+diagnosis 1 1 
+dictated 1 1 
+dictates 1 1 
+did 2 0 1 
+diddly 1 0 
+didneither 1 1 
+didnt 2 0 1 
+die 1 1 
+died 2 0 1 
+diedand 1 1 
+diehe 1 1 
+dies 1 1 
+difference 1 1 
+different 2 0 1 
+differently 1 1 
+difficult 1 1 
+difficulties 1 1 
+difficulty 1 1 
+digging 1 0 
+dignity 1 1 
+dim 1 1 
+dine 1 1 
+dined 1 1 
+dining 2 0 1 
+dinner 2 0 1 
+dinnerlast 1 1 
+dinners 1 0 
+dipped 1 1 
+directing 1 1 
+direction 1 0 
+dirty 1 1 
+disadvantages 1 1 
+disagreed 1 1 
+disappearance 1 1 
+disappeared 1 1 
+disappearing 1 1 
+disappointed 2 0 1 
+discomfiture 1 1 
+discomfort 1 1 
+discourse 1 1 
+discovered 1 1 
+discuss 2 0 1 
+discussing 2 0 1 
+discussion 1 1 
+disease 1 0 
+diseases 1 1 
+disembodied 1 1 
+disgraceful 1 1 
+disgustbut 1 1 
+disgusting 1 1 
+dish 1 1 
+dishes 1 0 
+dislike 1 1 
+dismay 1 1 
+dismissed 1 1 
+disparagingly 1 1 
+dispassionate 1 1 
+dispassionately 1 1 
+dispensing 1 1 
+disposal 1 1 
+dispute 1 1 
+dissatisfied 1 1 
+dissentient 1 1 
+distance 2 0 1 
+distaste 1 1 
+distinctive 1 1 
+distinguished 1 1 
+distorted 1 0 
+distracted 2 0 1 
+distractions 1 0 
+distressed 1 1 
+disturb 1 1 
+disturbed 1 1 
+disturbing 1 1 
+disturbs 1 1 
+dividends 1 1 
+do 2 0 1 
+docka 1 1 
+doctor 1 1 
+doctorand 1 1 
+doctordoctor 1 1 
+doctored 1 1 
+doctors 2 0 1 
+document 2 0 1 
+does 2 0 1 
+doesnt 2 0 1 
+dog 1 0 
+doggerel 1 1 
+doing 2 0 1 
+doings 1 0 
+dollar 1 0 
+dollars 1 0 
+domestic 1 1 
+done 2 0 1 
+dont 2 0 1 
+door 2 0 1 
+doorman 1 0 
+doors 2 0 1 
+doorsto 1 0 
+doorway 1 1 
+dope 1 1 
+dorset 1 1 
+dose 1 1 
+double 1 1 
+doubt 1 1 
+doubtfully 1 1 
+doubtless 1 1 
+doubts 1 1 
+down 2 0 1 
+downstairs 1 1 
+downup 1 1 
+dozen 1 0 
+dozens 1 0 
+dr 1 1 
+dragged 1 1 
+drank 2 0 1 
+draught 1 1 
+draughts 1 1 
+draw 1 1 
+drawer 1 1 
+drawers 1 1 
+drawing 1 1 
+drawn 1 1 
+dream 1 1 
+dreaming 1 1 
+dregs 1 1 
+dress 2 0 1 
+dressed 2 0 1 
+dresser 1 1 
+dressing 1 1 
+drew 1 1 
+drifted 1 1 
+drink 2 0 1 
+drinking 2 0 1 
+drinks 1 1 
+drive 2 0 1 
+driver 1 1 
+driving 1 1 
+drop 1 1 
+dropped 1 1 
+drops 1 1 
+drove 2 0 1 
+drowned 2 0 1 
+drowneddrowneddrowned 1 1 
+drowning 1 1 
+drug 2 0 1 
+drugs 2 0 1 
+drunk 2 0 1 
+drunkenly 1 1 
+drunkthats 1 1 
+dry 1 1 
+dryly 1 1 
+du 1 1 
+dubiously 1 1 
+duck 1 0 
+due 1 1 
+dug 1 0 
+dull 1 1 
+duly 1 1 
+dump 1 0 
+dumpster 1 0 
+during 2 0 1 
+dusting 1 1 
+duties 1 1 
+duty 1 1 
+dwelt 1 1 
+dyer 1 1 
+dyers 1 1 
+dying 2 0 1 
+dyou 1 1 
+e 1 0 
+each 2 0 1 
+ear 1 1 
+earlier 1 1 
+early 2 0 1 
+earnestly 1 1 
+earshot 1 1 
+eart 1 1 
+earth 1 1 
+ease 1 1 
+eased 1 0 
+easier 1 1 
+easily 1 1 
+east 2 0 1 
+easy 1 1 
+eat 1 1 
+eaten 1 1 
+echo 1 1 
+echoed 1 1 
+edge 2 0 1 
+editor 1 0 
+edward 1 1 
+eerie 1 1 
+effect 1 1 
+efficient 1 1 
+efficiently 1 0 
+effort 1 1 
+eggs 1 1 
+egyptian 1 0 
+eh 1 1 
+eight 2 0 1 
+eighty 1 1 
+either 2 0 1 
+ejaculations 1 1 
+elastic 1 0 
+elbow 1 1 
+elder 1 1 
+elderly 1 1 
+electric 2 0 1 
+elegant 1 0 
+eleven 1 1 
+eliminate 1 1 
+eliminated 1 1 
+eliminating 1 1 
+elimination 1 1 
+elizabeth 1 1 
+ellimans 1 1 
+elmer 1 1 
+eloquent 1 1 
+else 2 0 1 
+elsewhere 1 1 
+elsie 1 1 
+em 1 1 
+embark 1 1 
+embarrassed 1 1 
+embroidery 1 1 
+emergency 1 0 
+emerges 1 1 
+emily 1 1 
+emma 1 1 
+employer 1 1 
+employeran 1 1 
+empowered 1 1 
+emptiness 1 1 
+empty 1 1 
+encased 1 1 
+enchanting 1 1 
+enclose 1 1 
+enclosed 1 1 
+end 2 0 1 
+ended 1 0 
+endless 1 0 
+endnot 1 1 
+engaged 1 1 
+engagement 1 1 
+engaging 1 1 
+engine 1 1 
+engines 1 0 
+england 1 1 
+english 1 1 
+enjoy 1 1 
+enjoyed 1 1 
+enjoying 1 0 
+enlightening 1 1 
+enormous 1 1 
+enough 2 0 1 
+enraged 1 0 
+enrolled 1 0 
+ensign 1 1 
+ensure 1 1 
+entangled 1 1 
+enter 1 1 
+entered 1 1 
+entering 1 1 
+enters 1 1 
+enticed 1 1 
+enticing 1 1 
+entire 1 0 
+entirely 1 1 
+entitled 1 1 
+entrance 1 1 
+entrepreneur 1 0 
+envelope 1 1 
+enveloped 1 1 
+environment 1 0 
+epigraph 2 0 1 
+epilogue 1 1 
+epistolary 1 1 
+equally 1 1 
+erect 1 1 
+eric 1 0 
+erics 1 0 
+erno 1 1 
+ernot 1 1 
+errand 1 1 
+escapades 1 0 
+esq 1 1 
+essence 1 1 
+establish 1 1 
+established 1 1 
+establishing 1 1 
+estate 1 0 
+etc 1 1 
+ethel 1 1 
+ethelethelits 1 1 
+ether 1 1 
+europeans 1 1 
+evaded 1 1 
+evasive 1 1 
+even 2 0 1 
+evening 2 0 1 
+eveninga 1 1 
+evenings 1 1 
+evenly 1 1 
+event 1 1 
+events 2 0 1 
+eventuality 1 1 
+eventually 2 0 1 
+ever 2 0 1 
+every 2 0 1 
+everybody 1 1 
+everyday 1 1 
+everyone 2 0 1 
+everything 2 0 1 
+everythings 1 1 
+everythingsomehowwas 1 1 
+evidence 1 1 
+evidencefrom 1 1 
+evidently 1 1 
+ex 1 1 
+exact 1 1 
+exactly 2 0 1 
+examination 1 1 
+examinations 1 1 
+examine 1 1 
+examined 1 0 
+example 1 1 
+exceedingly 1 1 
+excellent 1 1 
+except 2 0 1 
+excepted 1 1 
+excepting 1 1 
+exception 1 1 
+exceptions 1 1 
+exchanged 1 1 
+exchanging 1 1 
+excited 1 1 
+exciting 1 1 
+exclaimed 1 1 
+exclamation 1 1 
+excuse 2 0 1 
+executed 1 1 
+executeth 1 1 
+execution 1 1 
+executioner 1 1 
+exertion 1 1 
+exeter 1 1 
+exhausted 1 0 
+exit 1 1 
+exonerated 1 1 
+expanse 1 1 
+expect 1 1 
+expectation 1 1 
+expected 2 0 1 
+expecting 1 1 
+expenses 1 1 
+experience 1 1 
+experiments 1 1 
+explain 1 1 
+explained 1 1 
+explaining 1 1 
+explains 1 1 
+explanation 1 1 
+explosively 1 1 
+exposs 1 0 
+express 1 1 
+expressed 1 1 
+expression 1 1 
+extinguishing 1 1 
+extra 1 1 
+extraordinary 1 1 
+extreme 1 1 
+extremely 1 1 
+eye 2 0 1 
+eyeballs 1 1 
+eyebrows 2 0 1 
+eyed 2 0 1 
+eyeglasses 1 1 
+eyeing 1 0 
+eyelashes 1 1 
+eyelid 1 1 
+eyelids 1 1 
+eyes 2 0 1 
+fabric 1 0 
+face 2 0 1 
+faced 1 1 
+faces 1 1 
+facing 1 1 
+fact 2 0 1 
+facts 1 1 
+fade 1 0 
+faded 1 1 
+fail 1 1 
+failed 1 1 
+failure 1 1 
+faint 1 1 
+fainted 1 1 
+faintly 1 1 
+fair 1 1 
+fairly 1 1 
+fairnot 1 1 
+faith 2 0 1 
+faithful 2 0 1 
+fall 1 0 
+fallen 2 0 1 
+falling 1 1 
+falls 1 0 
+false 1 1 
+familiar 1 1 
+families 1 0 
+family 2 0 1 
+famous 1 1 
+fancied 1 1 
+fancy 2 0 1 
+fantastic 1 1 
+fantastically 1 1 
+fantasticbut 1 1 
+fantasticmad 1 1 
+fantasy 2 0 1 
+far 2 0 1 
+farewell 1 0 
+farmhouse 1 0 
+farms 1 0 
+farther 1 1 
+fascinated 1 1 
+fascinating 1 1 
+fashion 1 1 
+fashioned 1 1 
+fast 2 0 1 
+fastened 1 1 
+fat 1 0 
+fatal 1 1 
+father 2 0 1 
+fault 1 1 
+faulty 1 0 
+favor 1 0 
+favors 1 0 
+fear 1 1 
+feasibletaken 1 1 
+feast 1 0 
+february 1 1 
+fedora 1 0 
+fee 1 1 
+feel 2 0 1 
+feeling 1 1 
+feelingindignation 1 1 
+feelings 2 0 1 
+feet 2 0 1 
+fell 2 0 1 
+felled 1 0 
+fellow 1 1 
+fellows 1 1 
+felt 2 0 1 
+female 1 1 
+ferret 1 1 
+festooned 1 1 
+fetch 1 1 
+fetched 1 1 
+few 2 0 1 
+fiend 1 1 
+fifteen 2 0 1 
+fifth 1 0 
+fifty 1 0 
+fight 1 0 
+fighting 1 1 
+fights 1 0 
+figure 2 0 1 
+figured 1 0 
+figures 1 1 
+filled 2 0 1 
+film 1 1 
+filmy 1 1 
+final 2 0 1 
+finally 1 0 
+financial 1 0 
+financially 1 1 
+find 2 0 1 
+finding 1 0 
+fine 2 0 1 
+finger 2 0 1 
+fingering 1 1 
+fingerprints 1 1 
+fingers 1 1 
+finish 1 1 
+finished 1 1 
+finishing 1 0 
+fire 1 1 
+firebox 1 0 
+fireplace 2 0 1 
+fireplaces 1 0 
+firm 1 1 
+firmly 1 1 
+first 2 0 1 
+fishing 1 1 
+fistfight 1 0 
+fists 1 1 
+fit 2 0 1 
+fits 1 1 
+five 2 0 1 
+fixed 1 1 
+fizzing 1 1 
+flames 1 0 
+flash 1 1 
+flashed 2 0 1 
+flat 1 1 
+flea 1 0 
+flickered 1 1 
+flies 1 1 
+floated 1 0 
+flooded 2 0 1 
+floor 2 0 1 
+floorboards 1 0 
+floored 1 0 
+floorfaintly 1 1 
+floors 1 0 
+flourish 1 1 
+flower 1 0 
+fluent 1 1 
+flung 1 1 
+flushed 1 1 
+fluttered 1 1 
+fly 1 1 
+flying 1 1 
+folded 1 0 
+folder 1 1 
+folk 1 1 
+followed 2 0 1 
+following 1 1 
+fond 1 1 
+food 2 0 1 
+fool 1 1 
+foolish 1 1 
+fools 1 1 
+foot 1 1 
+footfall 1 1 
+for 2 0 1 
+forage 1 1 
+forbidden 1 1 
+force 2 0 1 
+fore 1 1 
+forearmed 1 1 
+forefinger 1 1 
+forefront 1 1 
+forehead 1 1 
+foresee 1 1 
+forewarned 1 1 
+forget 1 1 
+forgot 1 1 
+forgotten 1 1 
+form 1 1 
+former 1 1 
+forte 1 1 
+forthe 1 1 
+fortunately 1 1 
+forward 1 1 
+foul 1 1 
+found 2 0 1 
+four 2 0 1 
+fourteen 1 1 
+foyer 1 0 
+fragile 1 0 
+frame 1 1 
+framed 1 1 
+france 1 1 
+frank 1 1 
+frankly 1 1 
+fraternizing 1 1 
+fraught 1 1 
+freaking 1 0 
+fred 1 1 
+free 1 1 
+freeas 1 1 
+freedom 1 1 
+freelance 1 0 
+french 1 1 
+frenzied 1 1 
+fresh 1 0 
+freshened 1 1 
+freshening 1 1 
+friend 1 1 
+friendly 1 1 
+friends 1 1 
+friendship 1 1 
+fright 1 1 
+frightened 1 1 
+frightening 1 1 
+frightful 1 1 
+frightfully 1 1 
+frizzled 1 1 
+frog 1 1 
+from 2 0 1 
+front 1 1 
+frowned 1 1 
+frowning 1 1 
+fruitless 1 1 
+fruits 1 1 
+fter 1 0 
+full 1 1 
+fullest 1 1 
+fumbled 1 1 
+fuming 1 0 
+fun 2 0 1 
+fund 1 0 
+funeral 1 0 
+funif 1 1 
+funny 1 1 
+furnishings 1 1 
+furniture 1 0 
+further 1 1 
+furtive 1 1 
+furtively 1 1 
+fuss 1 1 
+futile 1 1 
+future 2 0 1 
+g 1 1 
+ga 1 1 
+gabrielle 1 1 
+gait 1 1 
+gallery 1 0 
+gallon 1 0 
+gambled 1 0 
+game 1 0 
+games 1 1 
+gap 1 1 
+garbage 1 0 
+garden 2 0 1 
+gardener 1 1 
+gardens 1 0 
+garments 1 1 
+gasped 1 1 
+gasping 1 1 
+gasps 1 1 
+gates 1 0 
+gathered 1 1 
+gatherings 1 0 
+gaunt 1 0 
+gave 2 0 1 
+gay 1 1 
+gazed 1 1 
+gazing 1 1 
+general 2 0 1 
+generals 1 1 
+generation 1 1 
+genially 1 1 
+gent 1 1 
+gentle 1 1 
+gentleman 1 1 
+gentlemanreal 1 1 
+gentlemen 1 1 
+gently 1 1 
+george 1 1 
+gestapo 1 0 
+gesture 1 1 
+get 2 0 1 
+gets 1 1 
+getting 2 0 1 
+ghost 1 1 
+ghostlike 1 1 
+giant 1 1 
+gin 1 1 
+ginger 1 1 
+girl 2 0 1 
+girlas 1 1 
+girls 1 1 
+give 2 0 1 
+given 1 1 
+giving 2 0 1 
+glad 1 1 
+glamorousno 1 1 
+glance 1 1 
+glanced 1 1 
+glances 1 1 
+glancing 2 0 1 
+glass 2 0 1 
+glasses 2 0 1 
+gleaming 1 1 
+glimpse 1 1 
+glittering 1 0 
+glorious 1 1 
+glove 1 1 
+glow 1 0 
+glowing 2 0 1 
+glycerine 1 1 
+go 2 0 1 
+goat 1 0 
+god 2 0 1 
+goddamn 1 0 
+gods 1 0 
+goes 1 1 
+going 2 0 1 
+gold 1 0 
+gone 2 0 1 
+gong 1 1 
+good 2 0 1 
+goodreally 1 1 
+goose 1 1 
+gordon 1 1 
+gossip 1 1 
+got 2 0 1 
+gotten 1 0 
+gouge 1 0 
+governess 1 1 
+gown 1 1 
+grade 1 0 
+graduated 1 0 
+graduation 1 0 
+gramophone 1 1 
+gramophonean 1 1 
+gramophones 1 1 
+grandfather 1 1 
+grandma 1 0 
+grandpa 1 0 
+granted 1 1 
+grapes 1 0 
+grasped 1 1 
+grated 1 1 
+grateful 1 1 
+gratitude 1 0 
+grave 1 1 
+gravely 1 1 
+graver 1 1 
+gravity 1 1 
+gray 1 0 
+great 2 0 1 
+greatest 1 1 
+green 2 0 1 
+grew 1 1 
+grey 1 1 
+greyish 1 1 
+grief 1 0 
+grievances 1 0 
+grim 1 1 
+grimace 1 1 
+grimly 2 0 1 
+grin 1 1 
+grindstone 1 1 
+grinned 1 1 
+grip 1 1 
+groaned 1 1 
+ground 1 1 
+grounds 1 1 
+group 1 1 
+grove 1 0 
+grow 2 0 1 
+growing 1 0 
+growled 1 1 
+grown 1 0 
+grunt 1 1 
+grunted 1 1 
+guard 1 1 
+guards 1 0 
+guess 1 1 
+guessed 1 1 
+guessedwhen 1 1 
+guest 1 1 
+guests 1 1 
+guestsdo 1 1 
+guide 1 1 
+guilt 1 1 
+guilty 1 1 
+guineas 1 1 
+gullsstood 1 1 
+gulp 1 1 
+gusts 2 0 1 
+ha 1 1 
+habit 1 1 
+habits 1 1 
+habitual 1 1 
+had 2 0 1 
+hadnamely 1 1 
+hadnt 2 0 1 
+hailed 1 0 
+hair 2 0 1 
+haired 1 1 
+half 2 0 1 
+halfway 1 1 
+hall 1 1 
+hallway 1 0 
+halves 1 1 
+ham 1 1 
+hamilton 1 1 
+hand 2 0 1 
+handed 1 1 
+handkerchief 1 1 
+handle 1 1 
+handling 1 1 
+hands 2 0 1 
+handsome 1 1 
+handwriting 1 1 
+handy 1 1 
+hang 1 1 
+hanged 1 1 
+hanging 1 1 
+happen 1 1 
+happened 2 0 1 
+happenedto 1 1 
+happening 1 1 
+happens 1 1 
+happy 2 0 1 
+hard 2 0 1 
+hardened 1 1 
+hardly 2 0 1 
+hardnearly 1 1 
+hared 1 1 
+harley 1 1 
+harmless 1 1 
+harsh 1 1 
+has 2 0 1 
+hasnt 1 1 
+hate 1 1 
+hated 2 0 1 
+hauled 1 0 
+haunted 1 1 
+have 2 0 1 
+havent 2 0 1 
+having 1 1 
+he 2 0 1 
+head 2 0 1 
+headed 1 1 
+headlights 1 0 
+heads 1 1 
+healing 1 1 
+health 1 1 
+healthy 2 0 1 
+heaps 1 1 
+hear 2 0 1 
+heard 2 0 1 
+hearsay 1 1 
+heart 2 0 1 
+heartless 1 1 
+hearty 1 1 
+heat 1 1 
+heathen 1 1 
+heavily 1 1 
+heavy 2 0 1 
+hed 2 0 1 
+hedge 1 1 
+hehe 1 1 
+height 1 1 
+heiresses 1 0 
+held 2 0 1 
+heliographing 1 1 
+hell 2 0 1 
+helluva 1 0 
+help 2 0 1 
+helped 1 1 
+helps 1 0 
+hencemr 1 1 
+henry 1 1 
+her 2 0 1 
+herand 1 1 
+here 2 0 1 
+herehoped 1 1 
+herenot 1 1 
+hereout 1 1 
+heres 1 1 
+herewe 1 1 
+herewhen 1 1 
+hero 1 1 
+heronly 1 1 
+herring 1 1 
+herself 2 0 1 
+hershed 1 0 
+hes 2 0 1 
+heshiding 1 1 
+hesitated 1 1 
+hesitatedhes 1 1 
+hesitating 1 1 
+hesitation 1 1 
+hey 1 0 
+hiccupped 1 1 
+hid 1 1 
+hidden 1 1 
+hide 1 1 
+hiding 1 1 
+hidingno 1 1 
+hidingplace 1 1 
+high 2 0 1 
+highest 1 1 
+hill 2 0 1 
+hills 1 1 
+him 2 0 1 
+hima 1 1 
+himcleaving 1 1 
+himi 1 1 
+himnot 1 1 
+himself 2 0 1 
+himshaking 1 1 
+himto 1 1 
+hint 1 1 
+hinted 1 1 
+hints 1 1 
+his 2 0 1 
+hiss 1 1 
+hissing 1 1 
+hit 1 1 
+hive 1 1 
+hm 1 1 
+hmvery 1 1 
+hoarsely 1 1 
+hobart 1 0 
+hold 1 1 
+holding 2 0 1 
+holds 1 1 
+hole 1 1 
+holes 1 1 
+holiday 1 1 
+hollywood 1 1 
+home 2 0 1 
+homicidal 1 1 
+honest 1 0 
+honey 1 0 
+honeymoonyoung 1 1 
+hooded 1 1 
+hooding 1 1 
+hook 1 1 
+hooked 1 0 
+hope 1 1 
+hoped 1 0 
+hopeless 1 1 
+horizon 2 0 1 
+horn 1 1 
+horrible 1 1 
+horrified 1 1 
+horror 1 1 
+horse 1 1 
+horses 1 1 
+hospitably 1 1 
+hospital 2 0 1 
+host 1 1 
+hostess 1 1 
+hostessand 1 1 
+hot 1 1 
+hotel 1 1 
+hotly 1 1 
+hour 2 0 1 
+hours 1 1 
+hoursand 1 1 
+house 2 0 1 
+housea 1 1 
+household 2 0 1 
+houses 2 0 1 
+houseten 1 1 
+how 2 0 1 
+however 1 1 
+howled 1 1 
+huddled 1 1 
+hue 1 1 
+huge 1 0 
+hugged 2 0 1 
+hugo 1 1 
+hugohugo 1 1 
+hugos 1 1 
+human 1 1 
+humanity 1 1 
+hummed 1 0 
+humor 1 0 
+humorous 1 1 
+humoured 1 1 
+humouredly 1 1 
+hunched 1 1 
+hundred 2 0 1 
+hundreds 1 1 
+hung 2 0 1 
+hungry 1 1 
+hunting 1 0 
+hurried 2 0 1 
+hurrying 1 0 
+hurt 2 0 1 
+husband 2 0 1 
+husbandly 1 1 
+hush 1 1 
+hussy 1 1 
+hypocrisy 1 1 
+hypocrite 1 1 
+hysterical 1 1 
+i 2 0 1 
+ice 2 0 1 
+id 2 0 1 
+idea 2 0 1 
+ideas 1 1 
+idiosyncrasy 1 1 
+idiotic 1 1 
+idont 1 1 
+if 2 0 1 
+ifif 1 1 
+ii 2 0 1 
+iii 2 0 1 
+ill 2 0 1 
+illegal 1 1 
+illegible 1 1 
+illegibly 1 1 
+illuminated 1 1 
+illustrating 1 0 
+im 2 0 1 
+image 1 0 
+imagination 1 1 
+imagine 2 0 1 
+imagineand 1 1 
+imbalance 1 0 
+immediate 1 1 
+immediately 2 0 1 
+immense 1 1 
+immorality 1 1 
+immortal 1 1 
+impassive 1 1 
+impatient 1 1 
+impatiently 1 1 
+imperceptibly 1 1 
+implicated 1 1 
+implications 1 0 
+important 2 0 1 
+importantly 1 1 
+impossible 2 0 1 
+impressed 1 1 
+impression 2 0 1 
+impromptu 1 1 
+improve 1 0 
+impudently 1 1 
+impulse 1 0 
+impulsively 1 1 
+in 2 0 1 
+ina 1 1 
+inactivity 1 1 
+inclined 1 1 
+included 1 1 
+incoherent 1 1 
+income 1 1 
+incontestable 1 0 
+increase 1 0 
+increased 1 1 
+increasing 1 1 
+incredible 1 1 
+incredulously 1 1 
+incurable 1 0 
+indecision 1 1 
+indeed 1 1 
+indian 1 0 
+indicated 1 1 
+indictments 1 1 
+indignant 1 1 
+indignation 1 1 
+individuals 1 1 
+indulge 1 0 
+industry 1 0 
+inequalities 1 1 
+inert 1 1 
+inexpensive 1 0 
+inferior 1 1 
+inflicted 1 0 
+influence 1 1 
+inform 1 1 
+informal 1 1 
+information 1 1 
+informed 1 1 
+inhaled 1 1 
+inherited 1 0 
+inhuman 1 1 
+iniquitous 1 1 
+initials 1 1 
+initiative 1 1 
+injections 1 1 
+injustice 1 0 
+inlaid 1 0 
+inlet 1 1 
+inn 1 1 
+inquest 1 1 
+inquire 1 1 
+inquired 1 1 
+inquiring 1 1 
+inquiry 1 1 
+insane 1 1 
+inset 1 1 
+inside 1 1 
+insist 1 1 
+insisted 1 0 
+insistence 1 1 
+insisting 1 0 
+inspector 1 1 
+inspire 1 1 
+instance 1 1 
+instantaneously 1 1 
+instead 2 0 1 
+instructed 1 1 
+instructions 1 1 
+instructionseverything 1 1 
+instrument 1 1 
+intelligence 1 1 
+intelligent 1 1 
+intend 1 1 
+intensely 1 1 
+intent 1 1 
+intently 1 1 
+interest 1 1 
+interested 2 0 1 
+interesting 2 0 1 
+international 1 0 
+interposed 1 1 
+interrupted 1 1 
+interruption 1 1 
+interval 1 1 
+interview 1 1 
+intimacy 1 1 
+into 2 0 1 
+introduce 1 1 
+introduced 2 0 1 
+investigated 1 0 
+investment 1 0 
+invisible 1 0 
+invitation 2 0 1 
+invite 1 0 
+invited 2 0 1 
+involves 1 1 
+ironic 1 1 
+irregularity 1 1 
+irritably 1 1 
+irritating 1 1 
+is 2 0 1 
+isaac 1 1 
+island 2 0 1 
+islandquite 1 1 
+islands 1 1 
+islandsomething 1 1 
+islandthe 1 1 
+isnt 1 1 
+isolated 1 1 
+issheis 1 1 
+issue 1 1 
+it 2 0 1 
+italy 1 1 
+itclees 1 1 
+item 1 0 
+iter 1 1 
+itfrightened 1 1 
+iti 1 1 
+itit 1 1 
+itll 1 1 
+itrunning 1 1 
+its 2 0 1 
+itself 1 1 
+itsteady 1 1 
+itthe 1 1 
+itwas 1 1 
+iv 2 0 1 
+ive 2 0 1 
+ix 1 1 
+jackets 1 0 
+james 1 1 
+jane 1 1 
+january 1 1 
+jaw 1 1 
+jeannette 1 0 
+jennifer 1 1 
+jerk 1 1 
+jerked 1 1 
+jessica 1 0 
+jetty 1 1 
+jew 1 1 
+jewels 1 1 
+jews 1 1 
+jim 2 0 1 
+jims 1 0 
+job 2 0 1 
+jobbut 1 1 
+jobs 1 0 
+john 2 0 1 
+johnnie 1 1 
+johns 1 0 
+join 1 1 
+joined 2 0 1 
+joists 1 0 
+joke 1 1 
+jolt 1 0 
+jonas 1 1 
+jove 1 1 
+jubilant 1 1 
+judge 2 0 1 
+judges 1 1 
+judgment 2 0 1 
+jumped 1 1 
+jumpsuit 1 0 
+juncture 1 1 
+june 1 1 
+junior 1 1 
+junk 1 0 
+jury 1 1 
+juryit 1 1 
+just 2 0 1 
+justgave 1 1 
+justice 1 1 
+justified 1 1 
+jutting 1 1 
+kabuki 1 0 
+kc 1 1 
+keen 1 1 
+keep 2 0 1 
+keeping 1 0 
+kept 2 0 1 
+kettle 1 1 
+key 1 1 
+keys 1 1 
+kick 1 0 
+kid 2 0 1 
+kidnapped 1 0 
+kids 2 0 1 
+kill 2 0 1 
+killed 1 1 
+killing 1 1 
+kind 1 1 
+kindhe 1 1 
+kindness 1 1 
+kingdom 1 1 
+kissed 1 0 
+kitchen 2 0 1 
+kneeling 1 1 
+knees 1 1 
+knew 2 0 1 
+knewknew 1 1 
+knife 1 1 
+knit 1 0 
+knitting 1 1 
+knock 1 1 
+knocked 1 1 
+knots 1 0 
+know 2 0 1 
+knowand 1 1 
+knowexactly 1 1 
+knowing 1 1 
+knowledge 1 1 
+known 1 1 
+knowneeded 1 0 
+knows 1 1 
+knowthe 1 0 
+l 1 0 
+laced 1 0 
+lack 1 1 
+lad 1 1 
+ladies 1 1 
+lady 1 1 
+ladybut 1 1 
+laid 1 1 
+lamps 1 1 
+land 2 0 1 
+landing 1 1 
+landland 1 0 
+landlords 1 0 
+landor 1 1 
+landowner 1 1 
+lanes 1 1 
+lank 1 1 
+lap 1 1 
+larder 1 1 
+large 2 0 1 
+last 2 0 1 
+lasted 2 0 1 
+laststhe 1 1 
+late 2 0 1 
+lately 1 1 
+later 2 0 1 
+latest 1 1 
+latter 1 1 
+laugh 2 0 1 
+laughable 1 1 
+laughed 2 0 1 
+laugheda 1 1 
+laughing 1 1 
+laughs 1 0 
+laughter 1 0 
+launch 1 1 
+lavbathroom 1 1 
+lavender 1 1 
+law 2 0 1 
+lawrence 1 1 
+lawyer 1 0 
+lawyers 1 0 
+laxin 1 1 
+lay 1 1 
+leads 1 1 
+lean 1 1 
+leaned 1 1 
+leaning 1 1 
+leant 1 1 
+leaped 1 0 
+leapt 1 1 
+least 2 0 1 
+leather 1 1 
+leave 2 0 1 
+leaves 2 0 1 
+leaving 2 0 1 
+led 2 0 1 
+left 2 0 1 
+legacy 1 1 
+legal 1 1 
+legality 1 1 
+leggards 1 1 
+legs 1 0 
+leisure 1 1 
+lend 1 0 
+leslie 1 1 
+leslieleslie 1 1 
+leslies 1 1 
+less 2 0 1 
+lesson 1 1 
+let 2 0 1 
+lets 2 0 1 
+letter 1 1 
+letterfrom 1 1 
+letting 2 0 1 
+levelheaded 1 1 
+lhad 1 1 
+liar 1 1 
+liberty 1 1 
+library 1 0 
+licence 1 1 
+lie 1 1 
+liea 1 1 
+lied 1 0 
+lies 1 1 
+life 2 0 1 
+lifes 1 1 
+lifetime 1 1 
+lift 1 1 
+lifted 2 0 1 
+lifting 1 1 
+light 2 0 1 
+lighted 1 1 
+lightly 1 1 
+lightning 1 1 
+lights 2 0 1 
+like 2 0 1 
+likeand 1 1 
+liked 2 0 1 
+likelihood 1 1 
+likely 1 1 
+likewhat 1 0 
+likewithout 1 0 
+limbs 1 1 
+limbspresently 1 1 
+limestone 1 0 
+line 1 1 
+lingered 1 1 
+link 1 1 
+lip 1 1 
+lipped 1 1 
+lips 1 1 
+liquor 1 0 
+list 2 0 1 
+listened 1 1 
+listening 2 0 1 
+listlessly 1 1 
+lit 2 0 1 
+literally 1 1 
+litter 1 0 
+little 2 0 1 
+live 2 0 1 
+lived 2 0 1 
+lives 2 0 1 
+living 2 0 1 
+ll 1 1 
+llewellyn 1 1 
+loafers 1 0 
+lobby 1 0 
+local 1 1 
+loch 1 1 
+lock 1 1 
+locked 1 1 
+locking 1 1 
+locks 1 1 
+locust 1 0 
+lodged 1 1 
+logic 1 1 
+logical 1 1 
+logically 1 1 
+logs 1 0 
+lombard 1 1 
+lombards 1 1 
+london 1 1 
+lonely 1 1 
+long 2 0 1 
+longer 2 0 1 
+look 2 0 1 
+looked 2 0 1 
+lookedhe 1 1 
+lookedoh 1 1 
+lookedscared 1 1 
+looking 2 0 1 
+lookout 1 1 
+looks 1 1 
+loony 1 1 
+loose 1 1 
+loping 1 0 
+lord 1 1 
+lordship 1 1 
+lori 1 0 
+loss 1 1 
+lost 2 0 1 
+lot 2 0 1 
+lotion 1 1 
+lotnone 1 1 
+lots 1 1 
+loud 2 0 1 
+louder 1 1 
+louisa 1 1 
+lounging 1 1 
+love 2 0 1 
+loved 2 0 1 
+lovely 2 0 1 
+lover 1 1 
+loving 1 1 
+low 2 0 1 
+lower 2 0 1 
+lowered 1 0 
+lowering 1 1 
+loyalty 1 1 
+luck 1 1 
+lucks 1 1 
+lucky 1 1 
+lucy 1 1 
+luggage 1 1 
+lunacy 1 1 
+lunatic 1 1 
+lunatics 1 1 
+lunch 1 1 
+luncheon 1 1 
+lunchtime 1 1 
+luscious 1 1 
+luxuriated 1 1 
+luxurious 1 1 
+luxury 1 1 
+lying 2 0 1 
+lyingi 1 1 
+m 2 0 1 
+maam 1 1 
+macarthur 1 1 
+macarthurs 1 1 
+machine 1 1 
+machines 1 0 
+mackintosh 1 1 
+macpherson 1 1 
+mad 1 1 
+madam 1 1 
+madbut 1 1 
+made 2 0 1 
+madeif 1 1 
+madman 1 1 
+madmanprobably 1 1 
+magazine 1 0 
+magazines 1 0 
+magical 1 1 
+magnificent 1 1 
+magnum 1 0 
+maid 1 1 
+maidthe 1 1 
+main 2 0 1 
+mainland 1 1 
+maintained 1 0 
+major 1 1 
+majority 1 1 
+make 2 0 1 
+makes 1 1 
+makeup 1 0 
+making 2 0 1 
+malevolence 1 1 
+malevolently 1 1 
+malicious 1 1 
+man 2 0 1 
+mana 1 1 
+manage 1 1 
+managed 1 1 
+management 1 0 
+managers 1 0 
+manbut 1 1 
+maneuvers 1 0 
+manhole 1 1 
+manhood 1 1 
+mania 1 1 
+maniac 1 1 
+manner 1 1 
+mannerhe 1 1 
+manners 1 1 
+mans 1 1 
+manservant 1 1 
+mantel 1 0 
+mantelpiece 1 1 
+manufacturers 1 0 
+manuscript 1 1 
+many 2 0 1 
+maple 1 0 
+marble 2 0 1 
+march 1 1 
+market 1 0 
+marks 1 0 
+marooned 1 1 
+marriage 1 0 
+married 2 0 1 
+marry 2 0 1 
+marsh 1 0 
+marston 1 1 
+marstons 1 1 
+marvelled 1 1 
+mary 1 1 
+mass 1 1 
+massive 1 0 
+master 1 1 
+masterly 1 1 
+mastiff 1 0 
+mate 1 1 
+mats 1 1 
+matter 1 1 
+matters 1 1 
+mattersyou 1 1 
+matthews 1 1 
+maureen 1 0 
+maureens 1 0 
+maurice 1 1 
+may 1 1 
+maybe 2 0 1 
+maze 1 1 
+me 2 0 1 
+meagre 1 1 
+meal 2 0 1 
+mean 2 0 1 
+meanhe 1 1 
+meaning 1 1 
+meanit 1 1 
+means 2 0 1 
+meant 2 0 1 
+meantime 1 1 
+meanwhile 1 0 
+measure 1 1 
+measured 1 1 
+measures 1 1 
+meat 1 1 
+mebut 1 1 
+mechanically 1 1 
+medical 1 1 
+medicine 1 1 
+meditating 1 1 
+meet 1 1 
+meeting 1 0 
+mellowed 1 1 
+member 2 0 1 
+members 2 0 1 
+memories 1 1 
+memory 1 1 
+men 2 0 1 
+menleft 1 1 
+mens 1 1 
+mental 1 1 
+mentally 1 1 
+mention 2 0 1 
+mentioned 1 1 
+mere 1 1 
+merryweather 1 1 
+mess 1 0 
+message 1 1 
+met 2 0 1 
+methodically 1 1 
+mewhy 1 1 
+middle 1 1 
+midst 1 1 
+might 2 0 1 
+mild 1 1 
+mildly 1 1 
+mile 1 1 
+miles 2 0 1 
+military 1 1 
+milk 2 0 1 
+million 1 0 
+millionaire 1 1 
+millionaires 1 1 
+miming 1 0 
+mince 1 1 
+mind 2 0 1 
+minds 1 1 
+mine 1 1 
+mines 1 0 
+mining 1 0 
+minor 2 0 1 
+minute 2 0 1 
+minutes 1 1 
+minutestheres 1 1 
+miracle 1 1 
+mirror 1 1 
+mirrorlike 1 0 
+mirthless 1 1 
+misdirection 1 1 
+miss 2 0 1 
+missing 1 1 
+missoliver 1 1 
+misstatement 1 1 
+missus 1 1 
+mistake 1 1 
+mistakes 1 1 
+mistress 1 1 
+mixed 1 0 
+mixture 1 1 
+moan 1 1 
+moaning 1 1 
+modern 1 1 
+modernity 1 1 
+modest 1 1 
+moistening 1 1 
+mom 1 0 
+moment 2 0 1 
+momentarily 1 1 
+momentary 1 1 
+moments 2 0 1 
+moms 1 0 
+money 2 0 1 
+moneythey 1 1 
+monogram 1 1 
+monotonous 2 0 1 
+monster 1 1 
+months 2 0 1 
+moonlightthe 1 1 
+moonshinejust 1 1 
+mopping 1 1 
+morals 1 1 
+more 2 0 1 
+mormon 1 0 
+morning 2 0 1 
+morris 1 1 
+mortal 1 1 
+mortalsand 1 1 
+most 2 0 1 
+mostly 2 0 1 
+mother 2 0 1 
+motherly 1 1 
+mothershe 1 1 
+motive 1 1 
+motor 1 1 
+motorboat 1 1 
+motorboats 1 1 
+motored 1 1 
+mountain 1 0 
+mountaineering 1 1 
+mountaintop 1 0 
+mounted 1 1 
+moustache 1 1 
+mouth 1 1 
+mouthful 1 1 
+move 2 0 1 
+moved 2 0 1 
+movement 1 1 
+movers 1 0 
+moves 1 1 
+movie 1 0 
+moving 2 0 1 
+mowed 1 1 
+mr 1 1 
+mrs 1 1 
+msnbc 1 0 
+much 2 0 1 
+muchslur 1 1 
+mulched 1 0 
+murder 1 1 
+murderand 1 1 
+murdered 1 1 
+murderer 1 1 
+murderers 1 1 
+murderous 1 1 
+murders 1 1 
+murmur 1 1 
+murmured 1 1 
+murmuring 1 1 
+muscles 1 1 
+mushrooms 1 0 
+music 1 1 
+musingly 1 1 
+must 2 0 1 
+mustnt 1 1 
+mustwe 1 1 
+muttered 1 1 
+mutual 1 1 
+my 2 0 1 
+myself 2 0 1 
+mysterious 1 1 
+mysteriously 1 0 
+mystery 1 1 
+n 1 1 
+naked 1 1 
+name 2 0 1 
+named 1 1 
+names 1 1 
+nancy 1 1 
+nancyin 1 1 
+narracott 1 1 
+narracotts 1 1 
+narrow 1 1 
+narrowed 1 1 
+narrowing 1 1 
+narrowly 1 1 
+nasty 1 1 
+natal 1 1 
+natives 1 1 
+natural 1 1 
+naturallooks 1 1 
+naturally 1 1 
+nature 1 1 
+nave 1 1 
+navy 1 0 
+near 2 0 1 
+nearby 2 0 1 
+nearer 1 1 
+nearest 1 1 
+nearly 1 1 
+neat 1 1 
+neatly 1 1 
+necessary 1 1 
+necessity 1 1 
+neck 2 0 1 
+necks 1 1 
+need 2 0 1 
+needed 2 0 1 
+needle 1 1 
+needlessly 1 1 
+needs 2 0 1 
+neighborhood 1 0 
+neighbors 1 0 
+neighbourspleasant 1 1 
+neither 2 0 1 
+nephew 1 1 
+nerve 1 1 
+nerves 1 1 
+nervous 1 1 
+nervously 2 0 1 
+ness 1 1 
+nest 2 0 1 
+net 1 1 
+never 2 0 1 
+nevertheless 1 1 
+new 2 0 1 
+newno 1 1 
+news 2 0 1 
+newspapers 1 0 
+next 2 0 1 
+nice 1 1 
+nickname 1 1 
+niece 1 1 
+nieces 1 0 
+nigerian 1 0 
+nigh 1 1 
+night 2 0 1 
+nightmare 1 1 
+nights 2 0 1 
+nightthe 1 1 
+nine 2 0 1 
+nip 1 1 
+nitrite 1 1 
+no 2 0 1 
+nobody 1 1 
+nobodys 1 1 
+nod 1 1 
+nodded 2 0 1 
+nodding 1 1 
+noiselessly 1 1 
+nokeep 1 1 
+non 1 1 
+noncommittal 1 1 
+none 1 1 
+nono 1 1 
+nonsense 2 0 1 
+nor 2 0 1 
+normal 1 0 
+normality 1 1 
+normally 1 1 
+norman 1 1 
+norse 1 1 
+northern 1 1 
+northwest 1 1 
+norway 1 1 
+nose 1 1 
+nosed 1 1 
+nosing 1 1 
+not 2 0 1 
+note 1 1 
+notebook 1 1 
+notes 1 1 
+nothing 2 0 1 
+notice 1 1 
+noticed 1 1 
+novels 1 0 
+november 2 0 1 
+now 2 0 1 
+nowadays 1 1 
+nowhere 1 1 
+nownot 1 1 
+nowthis 1 1 
+nowyou 1 1 
+nude 1 0 
+nudity 1 1 
+nuisance 1 1 
+number 1 1 
+numbing 1 0 
+nurse 1 1 
+nursery 1 1 
+nuts 1 0 
+o 1 1 
+oakbridge 1 1 
+oath 1 1 
+obediently 1 1 
+obeyed 1 1 
+obeying 1 1 
+objected 1 1 
+objection 1 1 
+obliged 1 1 
+oblivion 1 1 
+obscured 1 0 
+observe 1 1 
+observer 1 1 
+obtain 1 1 
+obtained 1 1 
+obvious 1 1 
+occasionally 1 0 
+occasioned 1 1 
+occupants 1 1 
+occupied 1 1 
+occur 1 1 
+occurring 1 1 
+oclock 1 1 
+october 1 1 
+odd 1 1 
+oddly 1 1 
+of 2 0 1 
+off 2 0 1 
+offence 1 1 
+offences 1 1 
+offended 1 1 
+offensive 1 1 
+offered 2 0 1 
+offhand 1 1 
+office 2 0 1 
+officer 1 1 
+officers 2 0 1 
+official 1 1 
+often 2 0 1 
+ogden 1 1 
+ogilvie 1 1 
+oh 2 0 1 
+oilsilk 1 1 
+ointment 1 1 
+old 2 0 1 
+older 1 1 
+oliver 1 1 
+olrex 1 0 
+oltonormenno 1 1 
+om 1 0 
+on 2 0 1 
+ona 1 1 
+once 2 0 1 
+one 2 0 1 
+ones 1 1 
+oneyet 1 1 
+onions 1 0 
+only 2 0 1 
+onto 1 0 
+open 2 0 1 
+opened 2 0 1 
+opening 1 1 
+openings 1 0 
+openly 1 1 
+opensaid 1 1 
+operated 1 1 
+operating 1 1 
+operation 1 1 
+opinion 1 1 
+opportunity 1 1 
+opposite 2 0 1 
+oppressive 1 0 
+or 2 0 1 
+orange 1 0 
+orchard 1 0 
+ordeal 1 1 
+order 2 0 1 
+ordered 1 1 
+orders 1 1 
+ordersby 1 1 
+ordinarily 1 1 
+ordinary 1 1 
+organized 1 0 
+ori 1 0 
+origin 1 0 
+original 1 1 
+originality 1 1 
+ornaments 1 1 
+os 1 1 
+other 2 0 1 
+otheras 1 1 
+others 2 0 1 
+ought 1 1 
+our 2 0 1 
+ourselves 2 0 1 
+out 2 0 1 
+outalmost 1 1 
+outand 1 1 
+outfit 1 1 
+outline 1 0 
+outlined 1 1 
+outrageous 1 1 
+outside 2 0 1 
+over 2 0 1 
+overcasual 1 1 
+overcoat 1 0 
+overdose 1 1 
+overhad 1 1 
+overhead 1 1 
+overlooking 1 0 
+oversaw 1 0 
+oversleeps 1 1 
+overslept 1 1 
+overstuffed 1 0 
+overt 1 1 
+overvehement 1 1 
+overwork 1 1 
+owen 1 1 
+oweneach 1 1 
+owenhencesoldier 1 1 
+owenmentioned 1 1 
+owennot 1 1 
+owenor 1 1 
+owens 1 1 
+owenuna 1 1 
+owenunfortunately 1 1 
+owing 1 1 
+own 2 0 1 
+owned 2 0 1 
+owner 1 1 
+ownin 1 1 
+owns 1 1 
+pace 1 1 
+paced 1 0 
+pacifically 1 1 
+pacing 1 1 
+pack 1 1 
+packs 1 0 
+pad 1 0 
+paddington 1 1 
+page 1 0 
+pages 1 1 
+paid 2 0 1 
+pain 1 1 
+painting 1 0 
+pair 2 0 1 
+pal 1 1 
+pale 2 0 1 
+pall 1 1 
+pals 1 1 
+panelled 1 1 
+panelsit 1 1 
+panic 1 1 
+panther 1 1 
+pantry 1 1 
+pape 1 1 
+paper 2 0 1 
+papers 1 1 
+paperthe 1 1 
+paralysing 1 1 
+parcel 1 1 
+parched 1 0 
+parchmenta 1 1 
+pardon 1 1 
+parents 2 0 1 
+park 1 0 
+parquet 2 0 1 
+parsons 1 1 
+part 1 1 
+parted 1 1 
+particular 1 1 
+particularly 1 1 
+parties 2 0 1 
+parts 1 1 
+party 1 1 
+pass 1 1 
+passage 1 1 
+passed 2 0 1 
+passenger 1 1 
+passengers 2 0 1 
+passing 1 1 
+passionless 1 1 
+past 2 0 1 
+patient 1 1 
+patients 1 1 
+patientswomen 1 1 
+patted 1 1 
+pause 2 0 1 
+pausea 1 1 
+paused 1 1 
+pay 2 0 1 
+paycheck 1 0 
+paying 1 0 
+payment 2 0 1 
+peace 1 1 
+peaceful 1 1 
+peacefully 1 1 
+peacereal 1 1 
+peacethat 1 1 
+pealed 1 1 
+pearl 1 0 
+peculiar 1 1 
+peculiarly 1 1 
+peering 1 1 
+penal 1 1 
+penalties 1 1 
+pencil 1 1 
+penetrating 1 1 
+penny 2 0 1 
+pentecostal 1 0 
+people 2 0 1 
+perceptions 1 1 
+perennials 1 0 
+perfect 2 0 1 
+perfection 1 0 
+perfectly 1 1 
+perhaps 1 1 
+perhapsand 1 1 
+period 1 1 
+periods 1 1 
+perjury 1 1 
+permanent 1 1 
+permanently 1 1 
+permitted 1 1 
+perpetrators 1 1 
+perplexed 1 0 
+perplexedly 1 1 
+persian 1 0 
+persisted 1 1 
+person 2 0 1 
+personage 1 1 
+personal 1 1 
+personally 1 1 
+persons 1 1 
+perspiration 1 1 
+persuaded 1 0 
+persuasively 1 1 
+pet 1 0 
+petrified 1 1 
+philip 1 1 
+phone 1 0 
+photographers 1 0 
+physical 1 1 
+physically 1 1 
+physician 1 1 
+pick 1 0 
+picked 2 0 1 
+picking 1 1 
+pickled 1 0 
+picture 1 1 
+pictured 1 1 
+pictures 1 1 
+piece 2 0 1 
+pieces 2 0 1 
+pieceshands 1 1 
+pies 1 0 
+pile 1 0 
+piling 1 1 
+pinch 1 1 
+pink 1 0 
+pinned 1 1 
+pins 1 1 
+pint 1 0 
+pious 1 1 
+piping 1 0 
+pit 1 1 
+pity 1 1 
+place 2 0 1 
+placed 1 1 
+places 1 1 
+placid 1 1 
+placidly 1 1 
+plain 1 1 
+plainly 1 1 
+plaintively 1 1 
+plan 2 0 1 
+planked 1 0 
+planning 2 0 1 
+plans 2 0 1 
+plaque 1 1 
+plastic 1 0 
+plates 1 1 
+platform 2 0 1 
+platinum 1 0 
+play 1 1 
+played 1 1 
+players 1 0 
+playing 1 1 
+plays 1 1 
+pleasant 1 1 
+pleasantly 1 1 
+please 1 1 
+pleased 1 1 
+pleasure 1 1 
+plenty 1 1 
+plightin 1 1 
+plucked 1 0 
+plumbing 1 0 
+plump 1 1 
+plunged 1 1 
+plymouth 1 1 
+pneumonia 1 1 
+pocket 1 1 
+poem 1 1 
+poems 1 0 
+point 2 0 1 
+pointed 2 0 1 
+points 1 1 
+poison 1 1 
+poisoned 1 1 
+poisons 1 1 
+poked 1 1 
+police 2 0 1 
+policemen 1 1 
+polished 1 1 
+polishing 1 1 
+polite 1 1 
+political 1 1 
+ponds 1 0 
+pool 2 0 1 
+poor 2 0 1 
+porch 1 0 
+port 2 0 1 
+porter 1 1 
+porters 1 1 
+portraits 1 0 
+pose 1 1 
+posing 1 1 
+position 2 0 1 
+positions 1 0 
+positive 1 1 
+positively 1 1 
+possessed 1 1 
+possession 1 1 
+possibilities 2 0 1 
+possibility 1 1 
+possible 2 0 1 
+possiblealmost 1 1 
+possibly 1 1 
+post 1 1 
+posts 2 0 1 
+potassium 1 1 
+potatoes 1 1 
+potted 1 0 
+potting 1 0 
+pounce 1 1 
+pour 1 1 
+poured 1 1 
+pouring 1 1 
+powder 1 1 
+power 1 1 
+powerful 1 1 
+practical 1 1 
+practically 1 1 
+practised 1 1 
+praise 1 0 
+pray 1 1 
+precaution 1 1 
+precious 1 1 
+precise 1 1 
+predatory 1 1 
+predictable 1 0 
+prefer 2 0 1 
+premieres 1 0 
+premise 1 1 
+preoccupation 1 1 
+preparation 1 1 
+preparations 1 0 
+prepare 1 1 
+prepared 2 0 1 
+preparedor 1 1 
+preposterouspreposterous 1 1 
+prescribed 1 1 
+presence 1 1 
+present 1 1 
+presently 1 1 
+presents 1 0 
+preservation 1 1 
+preservations 1 1 
+preserver 1 1 
+presided 1 1 
+presiding 1 1 
+presume 1 1 
+pretend 1 0 
+pretty 2 0 1 
+prettyand 1 1 
+previous 1 1 
+preypleasant 1 1 
+price 1 1 
+prime 1 1 
+primus 1 1 
+principles 1 1 
+prisoner 1 1 
+prisoners 1 1 
+private 2 0 1 
+probability 1 1 
+probably 2 0 1 
+probationer 1 1 
+problems 2 0 1 
+procedure 1 1 
+proceed 1 1 
+proceeded 1 1 
+proceedings 1 1 
+process 1 1 
+procession 1 1 
+proclaimed 1 1 
+produced 1 1 
+producers 1 0 
+profess 1 1 
+profession 1 1 
+professional 2 0 1 
+professionally 1 1 
+profile 2 0 1 
+profitable 1 1 
+progress 1 1 
+promotion 1 1 
+prompt 1 1 
+prompted 1 1 
+pronounce 1 1 
+pronounced 1 0 
+proof 1 1 
+proper 1 1 
+prophet 1 1 
+proportioned 1 1 
+proposed 1 1 
+proposition 2 0 1 
+prosecutors 1 0 
+prospect 1 1 
+protestthis 1 1 
+proud 2 0 1 
+prove 1 1 
+proved 2 0 1 
+proves 1 1 
+provided 2 0 1 
+providence 1 1 
+proxy 1 1 
+prussic 1 1 
+public 1 1 
+publicity 1 1 
+publisher 1 1 
+puffed 1 1 
+puffy 1 0 
+pukka 1 1 
+pull 2 0 1 
+pulled 2 0 1 
+pulledthey 1 1 
+pulling 1 1 
+pulls 1 1 
+punch 1 1 
+puny 1 1 
+pup 1 1 
+puppy 1 0 
+purchase 1 1 
+purchased 1 1 
+pure 1 1 
+purple 1 1 
+purported 1 1 
+purports 1 1 
+purpose 2 0 1 
+purposeless 1 1 
+purse 1 0 
+pursed 1 1 
+push 1 1 
+pushed 1 0 
+pushing 2 0 1 
+put 2 0 1 
+putting 2 0 1 
+puzzled 1 1 
+qua 1 1 
+quaint 1 1 
+qualify 1 1 
+quarts 1 0 
+queer 1 1 
+queerly 1 1 
+queervery 1 1 
+question 2 0 1 
+questioned 1 0 
+questioning 1 1 
+questioningly 1 1 
+questions 2 0 1 
+quick 1 1 
+quickly 1 1 
+quiet 2 0 1 
+quietlisten 1 1 
+quietly 2 0 1 
+quite 2 0 1 
+racket 1 1 
+rage 1 1 
+ragged 1 1 
+rain 2 0 1 
+raised 2 0 1 
+raising 1 0 
+raked 2 0 1 
+ran 2 0 1 
+rancour 1 1 
+random 1 1 
+ranks 1 0 
+rapidly 1 1 
+rare 1 0 
+rate 1 1 
+rather 2 0 1 
+rattle 1 1 
+rattling 1 0 
+raving 1 1 
+razor 1 1 
+re 1 1 
+reach 1 1 
+reached 2 0 1 
+reaction 1 1 
+read 2 0 1 
+readers 1 0 
+readily 1 1 
+reading 2 0 1 
+ready 2 0 1 
+real 2 0 1 
+realize 2 0 1 
+realized 1 1 
+realizethe 1 1 
+really 2 0 1 
+reappearance 1 1 
+reason 1 1 
+reasonable 1 1 
+reasonably 1 1 
+reasons 1 0 
+reassurance 1 1 
+reassured 1 1 
+received 1 1 
+receiving 1 1 
+recent 1 1 
+recently 1 1 
+recessjust 1 1 
+recipes 1 0 
+recite 1 0 
+recited 1 1 
+recognition 1 1 
+recognized 1 0 
+recommendation 1 1 
+reconnaissance 1 1 
+reconsider 1 0 
+record 1 1 
+recovered 1 1 
+recrimination 1 1 
+recriminations 1 0 
+recumbent 1 1 
+red 2 0 1 
+redder 1 1 
+reduced 1 1 
+reentered 1 1 
+referring 1 1 
+refilled 1 1 
+reflected 1 1 
+reform 1 0 
+refraining 1 1 
+refuse 1 0 
+refusing 1 1 
+regard 1 1 
+regarding 1 1 
+regards 1 1 
+regiment 1 1 
+regina 1 1 
+regret 1 0 
+regrets 1 1 
+regular 1 0 
+reinforced 1 0 
+reiterate 1 1 
+rejected 1 1 
+relaxed 1 1 
+released 1 0 
+relief 1 1 
+relieved 1 1 
+remained 1 1 
+remains 1 1 
+remark 1 1 
+remarkable 1 1 
+remarkablewhat 1 1 
+remarkably 1 1 
+remarked 1 1 
+remarks 1 1 
+remember 1 1 
+remembered 1 1 
+remembering 1 1 
+remorseless 1 1 
+remove 1 1 
+removed 1 1 
+renovating 1 0 
+rent 1 0 
+repeated 1 1 
+repeating 1 0 
+repetition 1 1 
+repetitive 1 0 
+replace 1 0 
+replaced 2 0 1 
+replete 1 1 
+replied 1 1 
+replying 1 1 
+report 1 1 
+reproach 1 1 
+reptilian 1 1 
+republican 1 0 
+reputation 1 1 
+request 1 0 
+requested 1 0 
+require 1 1 
+required 1 0 
+research 1 0 
+resemblance 1 1 
+resent 1 1 
+reserve 1 1 
+resort 1 1 
+resounding 1 1 
+respectable 1 1 
+respective 1 1 
+respects 1 1 
+responded 1 1 
+response 1 1 
+responsible 2 0 1 
+rest 2 0 1 
+restaurant 2 0 1 
+rested 1 1 
+restless 1 1 
+restlessly 1 1 
+restored 1 0 
+restoring 1 0 
+restrain 1 1 
+restraint 1 1 
+rests 1 1 
+result 1 1 
+resulted 1 1 
+resumed 1 1 
+retired 1 1 
+retreated 1 1 
+return 1 1 
+returned 1 1 
+returning 1 0 
+revealed 1 0 
+reviewed 1 1 
+reviewing 1 1 
+revived 1 1 
+revolver 1 1 
+revolvers 1 1 
+rewinding 1 1 
+rex 1 0 
+rheumatic 1 1 
+rheumaticky 1 1 
+rhyme 1 1 
+ribbing 1 0 
+ric 1 0 
+rice 1 0 
+rich 1 1 
+richmond 1 1 
+richmonds 1 1 
+riddles 1 1 
+ride 1 0 
+ridiculous 2 0 1 
+right 2 0 1 
+righteous 1 1 
+righteousness 1 1 
+rightly 1 1 
+ring 1 1 
+ringing 1 1 
+rink 1 0 
+rippling 1 1 
+rising 1 1 
+risk 1 1 
+risks 1 1 
+ritz 1 1 
+river 2 0 1 
+road 2 0 1 
+roads 1 1 
+roadside 1 0 
+roadway 1 0 
+roar 1 1 
+roaring 1 1 
+roasting 1 0 
+robberylondon 1 1 
+robson 1 1 
+robsons 1 1 
+rock 1 1 
+rocks 1 1 
+rocksa 1 1 
+rogers 1 1 
+rogerses 1 1 
+roll 1 1 
+rolling 1 1 
+romantic 1 1 
+roof 2 0 1 
+rooffor 1 1 
+room 2 0 1 
+roommate 1 0 
+rooms 2 0 1 
+rope 1 1 
+roped 1 1 
+rose 2 0 1 
+rosy 1 0 
+rotgut 1 0 
+rotted 1 0 
+round 1 1 
+roundat 1 1 
+rounded 1 1 
+roused 1 1 
+row 1 1 
+rows 1 1 
+royalty 1 1 
+rubber 1 1 
+rug 1 0 
+rugs 1 1 
+ruled 1 1 
+rum 1 1 
+rumbled 1 0 
+ruminated 1 1 
+ruminating 1 1 
+rumour 1 1 
+rumours 1 1 
+run 2 0 1 
+running 1 1 
+runt 1 0 
+rushed 1 1 
+rusting 1 0 
+s 1 1 
+sacred 1 1 
+sacrificed 1 1 
+sad 1 1 
+safe 1 1 
+safely 1 1 
+safety 1 1 
+safeyes 1 1 
+saga 1 1 
+sagged 2 0 1 
+sahib 1 1 
+said 2 0 1 
+saidbut 1 0 
+sailed 1 1 
+sailor 1 1 
+salary 2 0 1 
+sale 1 1 
+salisbury 1 1 
+salts 1 1 
+same 2 0 1 
+samethey 1 1 
+sand 2 0 1 
+sands 1 1 
+sane 1 1 
+sanest 1 1 
+sanity 1 1 
+sat 2 0 1 
+satisfaction 1 1 
+satisfactory 1 1 
+satisfied 1 1 
+sauce 1 0 
+saucer 1 1 
+sausage 1 0 
+save 1 1 
+saw 2 0 1 
+say 2 0 1 
+saying 2 0 1 
+sayno 1 1 
+says 1 1 
+scalpel 1 1 
+scanning 1 1 
+scar 1 0 
+scarcely 1 0 
+scared 1 1 
+scarlet 1 1 
+scenes 1 0 
+scheduled 1 0 
+scheme 1 1 
+school 2 0 1 
+schoolmistressy 1 1 
+scoop 1 0 
+score 1 1 
+scored 1 1 
+scornfully 1 1 
+scotland 1 1 
+scoundrel 1 0 
+scrambled 1 1 
+scrap 1 1 
+scratched 1 1 
+scrawl 1 1 
+scrawled 1 1 
+scream 1 1 
+screaming 1 0 
+scrutinized 1 1 
+sculpture 1 1 
+sea 1 1 
+seafaring 1 1 
+seaits 1 1 
+seanever 1 1 
+seaobliquelyto 1 1 
+search 1 1 
+searched 1 1 
+searchers 1 1 
+searching 1 1 
+seaside 1 1 
+seat 1 1 
+seaweed 1 1 
+second 2 0 1 
+secretarial 1 1 
+secretary 1 1 
+secrets 1 0 
+security 1 0 
+sedative 1 1 
+see 2 0 1 
+seeing 1 1 
+seek 1 0 
+seem 1 1 
+seemed 2 0 1 
+seems 1 1 
+seen 2 0 1 
+seized 1 0 
+self 2 0 1 
+selfnonchalant 1 0 
+sell 2 0 1 
+selling 1 0 
+selves 1 1 
+semitic 1 1 
+send 1 1 
+sends 1 1 
+senior 1 1 
+sensationand 1 1 
+sense 1 1 
+senses 1 1 
+sent 2 0 1 
+sentence 1 1 
+sentiment 1 1 
+sentimental 1 0 
+serenely 1 1 
+sergeant 1 0 
+seriousbut 1 1 
+seriously 1 1 
+servant 1 1 
+servants 1 1 
+serves 1 1 
+service 1 1 
+services 1 1 
+servitude 1 1 
+set 2 0 1 
+seton 1 1 
+setons 1 1 
+sets 1 1 
+setting 1 1 
+settled 1 0 
+seven 1 1 
+sevenno 1 1 
+several 2 0 1 
+shackled 1 0 
+shadow 1 1 
+shadows 1 1 
+shaken 1 1 
+shakers 1 0 
+shaking 1 1 
+shall 1 1 
+shamelessly 1 1 
+shaped 1 1 
+share 1 0 
+sharp 1 1 
+sharply 1 1 
+shave 1 1 
+shavea 1 1 
+shaved 1 1 
+shaven 1 0 
+shawl 1 0 
+she 2 0 1 
+shed 2 0 1 
+sheer 1 1 
+sheerest 1 1 
+sheet 1 1 
+sheeted 1 1 
+shelf 1 0 
+shell 1 1 
+shelved 1 1 
+shes 2 0 1 
+shifted 2 0 1 
+shingles 1 0 
+shining 1 1 
+shiver 1 1 
+shivered 1 1 
+shivering 1 1 
+shock 1 1 
+shocked 1 1 
+shoes 1 0 
+shook 2 0 1 
+shooting 1 1 
+shopping 1 0 
+shore 1 1 
+short 1 1 
+shortly 2 0 1 
+shot 1 1 
+should 2 0 1 
+shoulder 2 0 1 
+shouldered 1 0 
+shoulders 1 1 
+shouldnt 1 1 
+shouldwhy 1 1 
+shouted 2 0 1 
+shouting 1 1 
+shoveled 1 0 
+show 1 1 
+showed 2 0 1 
+showing 1 1 
+shows 1 1 
+shredded 1 0 
+shrewd 1 1 
+shrewdly 1 1 
+shrieking 1 0 
+shrugged 1 1 
+shrunken 1 1 
+shuddered 1 1 
+shuddering 1 1 
+shuffled 1 0 
+shunning 1 1 
+shut 2 0 1 
+shutting 1 1 
+shy 1 1 
+sick 1 0 
+side 2 0 1 
+sideboard 1 1 
+sideways 1 1 
+sigh 1 1 
+sighed 1 1 
+sight 1 1 
+sign 1 1 
+signal 1 1 
+signals 1 1 
+signature 1 1 
+signatures 1 1 
+signed 1 1 
+significant 1 1 
+signs 1 1 
+silence 1 1 
+silencea 1 1 
+silent 1 1 
+silhouetted 1 1 
+silk 2 0 1 
+silverware 1 0 
+simple 1 1 
+simpler 1 1 
+simply 1 1 
+sin 1 1 
+since 2 0 1 
+sincerely 1 1 
+sine 1 1 
+single 2 0 1 
+singular 1 1 
+sinister 1 1 
+sinking 1 1 
+sinner 1 1 
+sinthat 1 1 
+sip 1 0 
+sipped 1 1 
+sir 1 1 
+sirof 1 1 
+sister 2 0 1 
+sit 1 1 
+sitting 2 0 1 
+situation 1 1 
+six 2 0 1 
+sixteen 1 1 
+sixty 1 1 
+size 1 0 
+sized 1 1 
+skate 1 0 
+skates 1 0 
+skating 1 0 
+skeins 1 1 
+sketch 1 0 
+sketched 1 0 
+sketching 1 0 
+skilful 1 1 
+skilled 1 1 
+skin 1 0 
+skinny 1 0 
+skirting 1 1 
+sky 2 0 1 
+slander 1 1 
+sleep 2 0 1 
+sleeping 1 1 
+sleepthey 1 1 
+sleepy 1 1 
+slept 2 0 1 
+slid 2 0 1 
+sliding 1 1 
+slight 1 1 
+slightly 1 1 
+slinging 2 0 1 
+slip 1 1 
+slipped 1 1 
+slips 1 1 
+slop 1 1 
+slope 1 1 
+slow 1 1 
+slowly 2 0 1 
+slowlythat 1 1 
+slumbering 1 1 
+sly 1 0 
+small 2 0 1 
+smallest 1 1 
+smart 1 0 
+smartest 1 0 
+smell 2 0 1 
+smelly 1 1 
+smelt 1 1 
+smile 2 0 1 
+smiled 2 0 1 
+smiling 2 0 1 
+smiths 1 0 
+smoke 1 1 
+smoking 2 0 1 
+smooth 2 0 1 
+smoothly 1 1 
+snap 1 1 
+snapped 1 0 
+snapping 1 1 
+snared 1 1 
+sneakers 1 0 
+sniffed 1 1 
+sniffing 1 1 
+snootiest 1 0 
+snorted 1 1 
+snot 1 0 
+so 2 0 1 
+soap 1 1 
+sober 1 1 
+social 2 0 1 
+society 1 1 
+soda 1 1 
+sofa 1 1 
+soft 1 1 
+softly 1 1 
+sold 1 0 
+soldier 1 1 
+soldierly 1 1 
+soldiers 1 1 
+solely 1 1 
+solemn 1 1 
+solicitude 1 1 
+solid 2 0 1 
+solved 1 0 
+some 2 0 1 
+somebody 1 1 
+someday 1 1 
+somehow 1 1 
+someone 2 0 1 
+someplace 1 0 
+somerset 1 1 
+something 2 0 1 
+sometimes 2 0 1 
+sometimesfancied 1 1 
+somewhat 1 1 
+somewhere 2 0 1 
+somewherewaiting 1 1 
+son 1 0 
+song 1 1 
+soon 2 0 1 
+sooner 1 1 
+soothingly 1 1 
+sorry 2 0 1 
+sorryerrogers 1 1 
+sort 1 1 
+sorts 2 0 1 
+sos 1 1 
+soso 1 1 
+sound 2 0 1 
+sounded 2 0 1 
+soundedit 1 1 
+sounds 1 1 
+sour 1 1 
+south 2 0 1 
+southeasterly 1 1 
+southlow 1 1 
+southwest 1 0 
+spaces 1 1 
+spare 1 1 
+spasmodically 1 1 
+speak 1 1 
+speaker 1 1 
+speaking 2 0 1 
+special 1 0 
+specialist 1 1 
+specializing 1 0 
+specimen 1 1 
+spectators 1 0 
+speculatively 1 1 
+speech 1 1 
+speedings 1 1 
+speeds 1 1 
+spend 2 0 1 
+spending 2 0 1 
+spent 2 0 1 
+spiced 1 0 
+spilled 1 0 
+spills 1 1 
+spinster 1 1 
+spiraling 1 0 
+spirit 2 0 1 
+spirits 1 1 
+spite 1 1 
+split 1 0 
+splitting 1 1 
+spluttered 1 1 
+spoke 1 1 
+spoken 2 0 1 
+spokespoke 1 1 
+sponge 1 1 
+spoof 1 1 
+sporadically 1 0 
+sport 1 1 
+sports 1 1 
+spot 1 1 
+sprang 1 1 
+spread 1 0 
+squabbling 1 0 
+squall 1 1 
+squallyeh 1 1 
+square 1 1 
+squarely 1 1 
+squaring 1 1 
+squash 1 0 
+squat 1 0 
+squata 1 0 
+squatter 1 0 
+squatters 1 0 
+squealed 1 0 
+stabbed 1 0 
+stacked 1 0 
+staff 1 1 
+stage 1 1 
+staggering 1 1 
+stair 1 1 
+staircase 1 0 
+stairs 1 1 
+stake 1 1 
+stamina 1 1 
+stamped 1 1 
+stand 1 1 
+standing 2 0 1 
+star 1 1 
+stare 1 1 
+stared 2 0 1 
+staring 1 1 
+staror 1 1 
+stars 2 0 1 
+start 1 1 
+started 2 0 1 
+starting 1 1 
+startled 1 1 
+starve 1 1 
+state 1 1 
+statement 1 1 
+station 2 0 1 
+statistics 1 0 
+statuette 1 1 
+stay 2 0 1 
+stayed 1 0 
+steadily 1 0 
+steady 1 1 
+steal 1 0 
+stealer 1 1 
+stealthily 1 1 
+steaming 1 1 
+steep 1 1 
+step 1 1 
+stephen 1 1 
+stepped 1 1 
+steps 1 1 
+sternly 1 1 
+stick 1 1 
+sticklehaven 1 1 
+sticks 1 1 
+stiff 1 1 
+stiffly 1 1 
+stiletto 1 1 
+still 2 0 1 
+stimulant 1 1 
+stinking 1 1 
+stir 1 1 
+stirred 1 1 
+stitches 1 0 
+stock 1 1 
+stocked 1 1 
+stolen 1 0 
+stone 2 0 1 
+stood 2 0 1 
+stop 2 0 1 
+stopped 2 0 1 
+stopper 1 1 
+stopping 1 1 
+store 1 0 
+stored 1 0 
+stores 1 1 
+storm 1 1 
+story 1 1 
+storys 1 1 
+stout 1 1 
+straggled 1 1 
+straight 2 0 1 
+straightened 1 1 
+straightforward 1 1 
+straightforwardness 1 1 
+strain 1 1 
+strange 1 1 
+stranger 1 1 
+strangers 1 1 
+strategy 1 0 
+street 2 0 1 
+streetnot 1 0 
+streets 2 0 1 
+strength 2 0 1 
+strenuous 1 1 
+stressed 1 1 
+stretch 1 1 
+stretched 1 1 
+stricken 1 0 
+strictly 1 1 
+strike 1 1 
+strikes 1 1 
+striking 1 1 
+strode 1 1 
+stroked 1 1 
+strokes 1 1 
+stroking 1 1 
+stroll 1 1 
+strolled 1 1 
+strong 1 1 
+stronger 2 0 1 
+strongly 1 1 
+struck 1 1 
+structure 1 1 
+struggle 1 0 
+struggled 1 0 
+stuck 2 0 1 
+studied 2 0 1 
+studying 1 1 
+stuff 2 0 1 
+stuffing 1 0 
+stuffy 1 1 
+stung 1 1 
+stupidly 1 1 
+style 1 1 
+suave 1 1 
+subject 1 1 
+subsequent 1 1 
+subsiding 1 1 
+substitute 1 1 
+subway 1 0 
+succeed 1 1 
+succeeded 1 1 
+success 1 1 
+successfully 1 1 
+succinctly 1 1 
+such 1 1 
+sudden 1 1 
+suddenly 2 0 1 
+suddenlyshe 1 1 
+suffered 1 1 
+sufficiency 1 0 
+sufficiently 1 1 
+suggest 1 1 
+suggested 2 0 1 
+suggestion 1 1 
+suggestions 1 1 
+suggestive 1 1 
+suicidal 1 1 
+suicide 1 1 
+suicides 1 1 
+suit 1 1 
+suitable 1 1 
+suitcase 1 1 
+suitcases 1 1 
+suits 1 1 
+sulkily 1 1 
+sullenly 1 1 
+sum 1 1 
+summed 1 1 
+summer 2 0 1 
+summers 1 1 
+summing 1 1 
+summit 1 1 
+summoned 1 1 
+summons 1 1 
+sun 1 1 
+sundays 1 1 
+sunk 1 1 
+sunken 1 0 
+sunlight 1 1 
+sunny 1 1 
+sunshine 2 0 1 
+super 1 1 
+superlatively 1 1 
+superstition 1 1 
+supervising 1 0 
+supply 1 1 
+support 1 1 
+suppose 1 1 
+supposed 1 1 
+supposehabit 1 1 
+supposing 1 1 
+sure 2 0 1 
+surely 1 1 
+surface 1 1 
+surgeons 1 1 
+surname 1 1 
+surprise 1 1 
+surprised 1 1 
+surrendered 1 1 
+surreptitious 1 1 
+surreptitiously 1 1 
+surround 1 1 
+surrounded 1 1 
+surveyed 1 1 
+survive 1 0 
+suspect 1 1 
+suspected 1 1 
+suspecting 1 1 
+suspended 1 1 
+suspicion 1 1 
+suspicious 1 1 
+suspiciously 1 1 
+swallow 1 1 
+swallowed 1 1 
+swallowing 1 1 
+swam 1 1 
+swan 1 1 
+swans 1 0 
+swarm 1 1 
+swayed 1 1 
+swear 1 1 
+sweat 1 1 
+sweater 1 0 
+sweaters 1 0 
+sweet 1 1 
+swell 1 1 
+swift 1 1 
+swiftly 1 1 
+swim 1 1 
+swimming 1 1 
+swine 1 1 
+swing 1 0 
+swore 1 1 
+sworn 2 0 1 
+syria 1 1 
+t 1 0 
+table 2 0 1 
+tablet 1 1 
+tablets 1 1 
+tabooed 1 1 
+tabulating 1 1 
+take 2 0 1 
+taken 2 0 1 
+takes 1 1 
+taking 2 0 1 
+talk 2 0 1 
+talked 2 0 1 
+talking 2 0 1 
+tall 1 1 
+tangled 1 0 
+tank 1 1 
+tanned 1 1 
+tap 1 1 
+tapping 1 1 
+tartar 1 1 
+task 1 1 
+taste 1 0 
+tasted 1 1 
+taught 1 0 
+taxi 2 0 1 
+taxis 1 1 
+taylor 2 0 1 
+tea 2 0 1 
+teacup 1 0 
+teapot 1 1 
+tear 1 0 
+teased 1 1 
+technique 1 1 
+technology 1 0 
+teeth 1 1 
+telegrams 1 1 
+telephone 1 1 
+television 1 0 
+tell 2 0 1 
+telling 2 0 1 
+temper 2 0 1 
+temperature 1 1 
+temples 1 0 
+temporarya 1 1 
+tempting 1 1 
+ten 1 1 
+tenacious 1 1 
+tenementbeen 1 0 
+tennessee 1 0 
+tennis 1 1 
+tenno 1 1 
+term 1 1 
+terms 1 1 
+terrace 1 1 
+terrible 1 1 
+terribly 1 1 
+terrified 1 0 
+terror 1 1 
+test 2 0 1 
+testy 1 1 
+texas 1 0 
+text 1 1 
+textured 1 0 
+th 1 1 
+than 2 0 1 
+thank 2 0 1 
+thanksgiving 1 0 
+that 2 0 1 
+thatin 1 0 
+thatjust 1 1 
+thatnot 1 1 
+thats 2 0 1 
+thatto 1 1 
+thatwithdrawn 1 1 
+the 2 0 1 
+thee 1 1 
+their 2 0 1 
+them 2 0 1 
+themhad 1 1 
+themselves 2 0 1 
+themto 1 1 
+themwhich 1 1 
+then 2 0 1 
+thenhed 1 1 
+thenquiet 1 1 
+theories 1 1 
+theory 1 1 
+there 2 0 1 
+thereafter 1 1 
+thered 1 1 
+therefore 1 1 
+therelistening 1 1 
+theres 1 1 
+theresomethingin 1 1 
+thereyou 1 1 
+these 2 0 1 
+thesewill 1 1 
+they 2 0 1 
+theyd 2 0 1 
+theyll 1 1 
+theyre 2 0 1 
+theyve 1 1 
+thick 2 0 1 
+thickets 1 0 
+thin 2 0 1 
+thing 2 0 1 
+things 1 1 
+think 2 0 1 
+thinking 2 0 1 
+thinkingfor 1 1 
+thinkingjohn 1 1 
+thinkor 1 1 
+thinkthough 1 1 
+thinkwhat 1 1 
+third 1 1 
+thirteen 2 0 1 
+thirty 1 1 
+this 2 0 1 
+thisam 1 1 
+thish 1 1 
+thisto 1 1 
+thomas 1 1 
+thorough 1 1 
+thoroughly 1 1 
+those 2 0 1 
+though 1 1 
+thought 2 0 1 
+thoughtfully 1 1 
+thoughts 1 1 
+thoughtwell 1 1 
+thousand 1 0 
+thousands 2 0 1 
+thread 1 1 
+three 2 0 1 
+threw 1 1 
+thrilled 1 1 
+thrilling 1 1 
+thrills 1 1 
+throat 2 0 1 
+throbbed 1 0 
+through 2 0 1 
+throughout 1 1 
+throw 2 0 1 
+throwing 1 1 
+thrown 1 1 
+thrusting 1 1 
+thud 1 1 
+thunderstruck 1 0 
+thy 1 1 
+ticket 1 0 
+tie 1 1 
+tight 1 1 
+tighter 1 1 
+tightly 2 0 1 
+tiled 1 1 
+tiles 1 1 
+till 1 1 
+tilled 1 0 
+time 2 0 1 
+timenone 1 1 
+times 2 0 1 
+timeso 1 1 
+tinned 1 1 
+tins 1 1 
+tinted 1 1 
+tip 1 1 
+tips 1 0 
+tired 1 1 
+tis 1 1 
+tisnt 1 1 
+title 2 0 1 
+to 2 0 1 
+toast 1 0 
+today 1 1 
+todaysometimes 1 1 
+toddlerstared 1 0 
+together 2 0 1 
+togetheronly 1 1 
+togged 1 1 
+told 2 0 1 
+tom 1 1 
+tomorrow 1 1 
+tone 1 1 
+tones 1 1 
+tongue 1 1 
+tonight 1 1 
+tony 1 1 
+too 2 0 1 
+tooactually 1 1 
+took 2 0 1 
+tooth 1 1 
+toothey 1 0 
+toothpaste 1 1 
+top 1 1 
+torch 1 1 
+tore 1 1 
+torn 1 1 
+torquay 1 1 
+tortoise 1 1 
+tossed 1 1 
+tothats 1 1 
+tottered 1 1 
+touch 2 0 1 
+touched 1 1 
+touches 1 0 
+tour 1 1 
+tousled 1 1 
+toward 1 0 
+towards 1 1 
+town 1 0 
+towns 1 0 
+track 1 1 
+tradesman 1 1 
+traffic 1 0 
+train 2 0 1 
+training 1 1 
+trains 1 1 
+trance 1 1 
+transformed 1 1 
+trap 1 1 
+trapill 1 1 
+travel 1 1 
+travellers 1 1 
+travelling 1 1 
+trawler 1 1 
+tray 1 1 
+treacherous 1 1 
+tread 1 1 
+treated 1 0 
+treatment 1 1 
+treats 1 0 
+trees 2 0 1 
+trembling 1 1 
+tremendous 1 1 
+trial 1 1 
+triangles 1 0 
+tribe 1 1 
+tricks 1 1 
+tried 2 0 1 
+trimmed 1 1 
+trional 1 1 
+trip 1 1 
+triumphal 1 1 
+triumphed 1 1 
+tropical 1 0 
+trouble 2 0 1 
+troubles 1 1 
+trousers 1 0 
+true 2 0 1 
+truly 2 0 1 
+trumpet 2 0 1 
+truncheon 1 1 
+trust 1 1 
+truth 2 0 1 
+truthlast 1 1 
+truthno 1 1 
+try 2 0 1 
+trying 2 0 1 
+tumult 1 1 
+tunelessly 1 0 
+tunic 1 1 
+turban 1 0 
+turbulence 1 0 
+turkey 1 0 
+turl 1 1 
+turn 1 1 
+turned 2 0 1 
+turnedthere 1 1 
+turning 1 1 
+twelve 1 1 
+twenties 1 0 
+twenty 2 0 1 
+twice 1 1 
+twin 1 0 
+twisted 1 1 
+twisting 1 1 
+twitched 1 1 
+twitching 1 1 
+two 2 0 1 
+tying 1 1 
+type 1 1 
+types 1 1 
+typewritten 1 1 
+u 1 1 
+ulick 1 1 
+uman 1 1 
+un 1 1 
+una 1 1 
+unable 1 1 
+unaccounted 1 1 
+unacquainted 1 1 
+unanswered 1 1 
+unassuming 1 1 
+unbelievingly 1 1 
+unblinkingly 1 1 
+unbroken 1 1 
+uncalled 1 1 
+uncertainty 1 1 
+unchallenged 1 1 
+uncle 1 0 
+uncomfortable 1 1 
+uncommon 1 1 
+unconscious 1 1 
+unconvinced 1 1 
+undependable 1 1 
+under 2 0 1 
+understand 1 1 
+understanding 1 1 
+understandyou 1 1 
+understood 2 0 1 
+undertake 1 1 
+undue 1 1 
+uneasily 1 1 
+uneasiness 1 1 
+uneasy 1 1 
+unevenly 1 1 
+unexpected 1 1 
+unexpectedly 1 1 
+unfortunate 1 1 
+unfortunately 1 1 
+unhinged 1 1 
+unhurt 1 1 
+uniform 1 0 
+uninhabitable 1 0 
+unit 1 0 
+unknown 1 1 
+unless 2 0 1 
+unlike 1 1 
+unlikely 1 1 
+unloading 1 0 
+unlocked 1 0 
+unmoved 1 1 
+unobserved 1 1 
+unobtrusively 1 1 
+unpacked 1 1 
+unpleasant 1 1 
+unprepared 1 1 
+unreadable 1 1 
+unsatisfied 1 1 
+unscrewed 1 0 
+unshaved 1 1 
+unsporting 1 1 
+unsteadily 1 1 
+unsuspicious 1 1 
+untampered 1 1 
+untasted 1 1 
+untenanted 1 1 
+until 1 1 
+untrue 1 1 
+unusual 1 1 
+unwieldy 1 1 
+unwilling 1 1 
+unyielding 1 1 
+up 2 0 1 
+upmeeting 1 1 
+upon 1 1 
+upper 1 1 
+upraised 1 1 
+upright 1 1 
+upset 2 0 1 
+upstairs 1 1 
+upstate 1 0 
+urge 1 0 
+urgency 1 1 
+urging 1 1 
+uriah 1 1 
+urn 1 1 
+us 2 0 1 
+used 2 0 1 
+useven 1 1 
+usual 1 1 
+usually 1 1 
+usualto 1 1 
+utah 1 0 
+uttered 1 1 
+uttering 1 1 
+v 2 0 1 
+vacant 1 1 
+vague 2 0 1 
+vaguely 1 1 
+vaguest 1 1 
+valid 1 1 
+valuable 1 0 
+value 1 1 
+values 1 0 
+vanished 1 1 
+variety 1 1 
+various 2 0 1 
+vast 1 1 
+vastly 1 1 
+vegetable 1 0 
+vengeance 1 1 
+vent 1 0 
+venture 1 1 
+venus 1 0 
+vera 1 1 
+veras 1 1 
+verdict 1 1 
+verisimilitude 1 1 
+veronal 1 1 
+veronica 1 0 
+veronicawho 1 0 
+version 1 0 
+very 2 0 1 
+vi 1 1 
+vibrated 1 0 
+victims 1 1 
+victorian 1 0 
+view 1 1 
+viewed 1 1 
+vii 1 1 
+viii 1 1 
+village 2 0 1 
+villages 1 0 
+vine 1 0 
+vines 1 0 
+violently 1 1 
+virginia 1 0 
+virtue 1 1 
+visible 1 1 
+visit 2 0 1 
+visited 1 0 
+vodka 1 0 
+vodkatossing 1 0 
+voice 2 0 1 
+voices 1 1 
+voicethat 1 1 
+volunteered 1 1 
+wager 1 1 
+waistcoat 1 1 
+wait 2 0 1 
+waited 1 1 
+waitedwaited 1 1 
+waiting 2 0 1 
+waitress 1 0 
+wake 1 1 
+waking 1 1 
+walk 1 1 
+walked 2 0 1 
+walking 1 1 
+walks 1 0 
+wall 1 1 
+walls 2 0 1 
+wallsa 1 1 
+wallsstyle 1 0 
+walnuts 1 0 
+wandered 1 1 
+wandering 1 1 
+want 2 0 1 
+wanted 2 0 1 
+wantedif 1 1 
+wanting 2 0 1 
+war 1 1 
+wardrobe 1 1 
+wargrave 1 1 
+wargraves 1 1 
+warm 2 0 1 
+warmly 1 1 
+warn 1 1 
+warning 1 1 
+warningly 1 1 
+wartime 1 1 
+was 2 0 1 
+wasdrunk 1 1 
+wash 1 1 
+washstand 1 1 
+wasnot 1 1 
+wasnt 2 0 1 
+wasohenjoying 1 1 
+wasp 1 1 
+wasps 1 1 
+watch 1 1 
+watchanother 1 1 
+watched 1 1 
+watches 1 1 
+watching 2 0 1 
+watchman 1 1 
+water 2 0 1 
+waters 1 1 
+watertired 1 1 
+waved 2 0 1 
+wavered 1 1 
+waves 1 1 
+way 2 0 1 
+wayif 1 1 
+ways 1 1 
+waywell 1 1 
+we 2 0 1 
+weakness 1 1 
+weapon 1 1 
+wearing 2 0 1 
+weather 1 1 
+weatherno 1 1 
+wed 2 0 1 
+wedding 1 0 
+week 2 0 1 
+weekeh 1 1 
+weekend 1 0 
+weekends 1 1 
+weekly 1 0 
+weeks 1 0 
+weeping 1 1 
+weighing 1 1 
+weight 1 1 
+welch 1 0 
+welcomed 1 0 
+well 2 0 1 
+wellafter 1 1 
+welleryes 1 1 
+wellno 1 1 
+went 2 0 1 
+wept 1 1 
+were 2 0 1 
+werent 1 1 
+werewhat 1 1 
+west 2 0 1 
+wet 2 0 1 
+weve 1 1 
+whacking 1 1 
+what 2 0 1 
+whatever 2 0 1 
+whats 2 0 1 
+whatsoever 1 1 
+wheel 1 1 
+when 2 0 1 
+whenever 1 0 
+where 2 0 1 
+whereabouts 1 1 
+wheres 1 1 
+which 2 0 1 
+while 2 0 1 
+whilst 1 1 
+whims 1 1 
+whiney 1 1 
+whining 1 1 
+whisky 1 1 
+whisper 1 1 
+whispered 1 1 
+whistle 2 0 1 
+whistled 1 1 
+white 1 1 
+who 2 0 1 
+whod 2 0 1 
+whoever 1 1 
+whole 2 0 1 
+whom 2 0 1 
+whos 1 1 
+whose 1 1 
+why 2 0 1 
+wicked 1 1 
+wickedness 1 1 
+wide 2 0 1 
+widely 1 1 
+wife 2 0 1 
+wifes 1 1 
+wig 1 1 
+wild 1 0 
+will 2 0 1 
+william 1 1 
+willing 2 0 1 
+wind 2 0 1 
+winding 1 0 
+window 2 0 1 
+windowpanes 1 1 
+windows 2 0 1 
+windowsill 1 1 
+wine 1 1 
+winked 1 0 
+winking 1 1 
+winter 2 0 1 
+wiped 1 1 
+wire 1 1 
+wired 1 1 
+wiring 1 0 
+wisdom 1 1 
+wise 1 1 
+wish 2 0 1 
+wished 1 1 
+wishing 1 1 
+wisteria 1 0 
+with 2 0 1 
+withdraw 1 1 
+withheldwell 1 1 
+within 1 1 
+without 2 0 1 
+witness 1 1 
+wives 1 1 
+wo 1 0 
+woke 1 1 
+wolf 1 1 
+woman 2 0 1 
+womanand 1 1 
+womanmissmissnow 1 1 
+womans 1 1 
+women 2 0 1 
+womens 1 1 
+wonder 1 1 
+wondered 2 0 1 
+wonderful 1 1 
+wondering 1 1 
+wonderingly 1 1 
+wont 1 1 
+wood 2 0 1 
+wooden 1 0 
+woods 1 0 
+wool 1 1 
+word 2 0 1 
+words 1 1 
+wore 1 0 
+work 2 0 1 
+worked 2 0 1 
+working 2 0 1 
+world 2 0 1 
+worldan 1 1 
+worlds 1 0 
+worried 2 0 1 
+worries 1 1 
+worrying 1 1 
+worst 2 0 1 
+worth 1 0 
+worthless 1 0 
+would 2 0 1 
+wouldnt 2 0 1 
+wound 2 0 1 
+wounds 1 0 
+wrapped 2 0 1 
+wrath 1 1 
+wreck 1 0 
+wrestling 1 1 
+wriggled 1 1 
+wrinkling 1 1 
+write 1 1 
+writer 1 0 
+writers 1 1 
+writing 2 0 1 
+written 1 1 
+wrong 2 0 1 
+wrongall 1 1 
+wrongwrong 1 1 
+wrote 2 0 1 
+wry 1 1 
+x 1 1 
+xi 1 1 
+xii 1 1 
+y 1 0 
+yachting 1 1 
+yachtingand 1 1 
+yard 1 1 
+yarn 1 0 
+yawned 1 1 
+yeah 1 1 
+year 2 0 1 
+years 2 0 1 
+yearsneither 1 1 
+yearssixteen 1 1 
+yelling 1 0 
+yellow 1 1 
+yes 2 0 1 
+yesoliver 1 1 
+yesten 1 1 
+yesterday 1 1 
+yet 1 1 
+yetin 1 1 
+yetthats 1 1 
+yetwhy 1 1 
+york 1 0 
+you 2 0 1 
+youd 1 1 
+youll 2 0 1 
+youm 1 1 
+young 1 1 
+younger 1 1 
+youor 1 1 
+your 2 0 1 
+youre 2 0 1 
+yourhardnessdrove 1 1 
+yours 1 1 
+yourself 1 1 
+youth 1 1 
+youve 2 0 1 
+zigzag 1 1 
+zoo 1 1 

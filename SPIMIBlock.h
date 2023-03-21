@@ -61,6 +61,11 @@ public:
 		return max_size_;
 	}
 
+	const indexer_type& get_indexer() const noexcept
+	{
+		return indexer_;
+	}
+
 private:
 	indexer_type  indexer_;
 	size_t max_size_;
