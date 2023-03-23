@@ -108,10 +108,69 @@ namespace testing
 			return dict;
 		}
 
+		bool is_valid_string(const std::string& s, const std::string& bad_symbols) 
+		{
+			return s.find_first_of(bad_symbols) == std::string::npos;
+		}
+
+		void distance_search(CoordinateInvertedIndexer& indexer)
+		{
+			using std::cin;
+			using std::cout;
+
+			cout << "Phrase search (input \"_end\" to finish):\n";
+			std::string input;
+			while (true)
+			{
+				cout << "> ";
+				std::getline(cin, input);
+				if (input == "_end") break;
+				Iterable<std::string> tokens = tokenize<std::string, std::string>
+					(input, std::string(" \t\v\f\r\n,.;:!?*[]()\"\"/'{}|@#$&=%\\-"));
+
+				std::vector<std::string> words;
+				std::vector<size_t>  distances;
+				bool is_valid_input = true;
+
+				for (auto&& token : tokens)
+				{
+					try
+					{
+						distances.push_back(atoi(token.c_str()));
+					}
+					catch (...)
+					{
+						words.push_back(token);
+						is_valid_input = is_valid_string(token, "0123456789");
+					}
+				}
+
+				if (!is_valid_input)
+				{
+					cout << "Invalid input! Try again!\n";
+					continue;
+				}
+
+				SearchResult res = distance_search(indexer, words, distances);
+				
+				cout << "RESULT:\n";
+				for (auto&& doc : res)
+				{
+					cout << indexer.get_docids()[doc] << '\n';
+				}
+			}
+		}
+
 		void execute_testing()
 		{
 			const std::string path = "Input Files/";
 			auto coord_index = prepare_index(path);
+
+			auto res = distance_search(coord_index, {"cat"}, {});
+			for (auto r : res)
+			{
+				std::cout << r << ' ' << '\n';
+			}
 		}
 	}
 }

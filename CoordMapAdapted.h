@@ -20,6 +20,8 @@ public:
 	constexpr CoordMapAdapted(std::initializer_list<value_type> init) : container_{ init } {}
 	constexpr CoordMapAdapted(CoordMapAdapted&& container) noexcept :
 		container_{ std::move(container.container_) } {}
+	constexpr CoordMapAdapted(const CoordMapAdapted&) = default;
+	constexpr CoordMapAdapted& operator=(const CoordMapAdapted&) = default;
 	~CoordMapAdapted() override = default;
 public:
 	void add(const T& elem)

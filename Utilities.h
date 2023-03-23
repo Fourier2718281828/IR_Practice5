@@ -204,6 +204,8 @@ Iterable1 intersect_special(const Iterable1& p1, const Iterable2& p2)
 	return res;
 }
 
+
+
 template<typename T>
 using uptr = std::unique_ptr<T>;
 
