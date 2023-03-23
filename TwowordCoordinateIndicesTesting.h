@@ -125,18 +125,24 @@ namespace testing
 				cout << "> ";
 				std::getline(cin, input);
 				if (input == "_end") break;
+				std::regex query_regex("(([a-zA-Z]+)\\s(\\d+)\\s)*([a-zA-Z]+)");
+				if (!std::regex_match(input, query_regex))
+				{
+					cout << "Invalid input! Try again!\n";
+					continue;
+				}
 				Iterable<std::string> tokens = tokenize<std::string, std::string>
 					(input, std::string(" \t\v\f\r\n,.;:!?*[]()\"\"/'{}|@#$&=%\\-"));
 
 				std::vector<std::string> words;
 				std::vector<size_t>  distances;
-				bool is_valid_input = true;
+				bool is_valid_input = !tokens.empty();
 
 				for (auto&& token : tokens)
 				{
 					try
 					{
-						distances.push_back(atoi(token.c_str()));
+						distances.push_back(std::stoi(token.c_str()));
 					}
 					catch (...)
 					{
@@ -144,6 +150,8 @@ namespace testing
 						is_valid_input = is_valid_string(token, "0123456789");
 					}
 				}
+
+				is_valid_input = is_valid_input && words.size() == distances.size() + 1;
 
 				if (!is_valid_input)
 				{
@@ -165,12 +173,12 @@ namespace testing
 		{
 			const std::string path = "Input Files/";
 			auto coord_index = prepare_index(path);
-
-			auto res = distance_search(coord_index, {"cat"}, {});
+			distance_search(coord_index);
+			/*auto res = distance_search(coord_index, {"told", "could", "me"}, {3, 4});
 			for (auto r : res)
 			{
 				std::cout << r << ' ' << '\n';
-			}
+			}*/
 		}
 	}
 }

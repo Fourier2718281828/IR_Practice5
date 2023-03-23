@@ -244,15 +244,24 @@ SearchResult distance_search
 (
 	const CoordinateInvertedIndexer& indexer,
 	const std::vector<std::string>& words,
-	const std::vector<size_t>& distances
+	std::vector<size_t> distances
 )
 {
 	using value_type = std::pair<size_t, size_t>;
 	using index = std::map<size_t, std::set<coordinate_t>>;
 	std::vector<index> indices;
-	for (auto&& word : words)
+	for (size_t i = 0; i < words.size(); ++i)
 	{
-		indices.push_back(distinguish(indexer.get_list(word)));
+		const auto word = words[i];
+		if(indexer.get_dict().get_container().contains(word))
+		{
+			indices.push_back(distinguish(indexer.get_list(word)));
+		}
+		else 
+		{
+			return {};
+		}
+
 	}
 	if (indices.empty()) return {};
 	auto intersected = indices[0];
