@@ -57,7 +57,13 @@ namespace testing
 			{
 				cout << "> ";
 				std::getline(cin, input);
-				if (input == "_end") break;
+				if (input == "_end") break; 
+				std::regex query_regex("(([a-zA-Z]+)\\s)*([a-zA-Z]+)");
+				if (!std::regex_match(input, query_regex))
+				{
+					cout << "Invalid input! Try again!\n";
+					continue;
+				}
 				Iterable<std::string> tokens = tokenize<std::string, std::string>
 					(input, std::string(" \t\v\f\r\n,.;:!?*[]()\"\"0123456789/'{}|@#$&=%\\-"));
 				query_result res;
