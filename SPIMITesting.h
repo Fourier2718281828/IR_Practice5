@@ -2,6 +2,7 @@
 #define SPIMI_TESTING_
 #include <iostream>
 #include <filesystem>
+#include <queue>
 #include "SPIMIBlock.h"
 #include "SPIMIFiller.h"
 #include "LineFileReader.h"
@@ -19,7 +20,7 @@ namespace testing
 			block_names.push_back(max + 1);
 			return out_folder + std::to_string(max) + ".txt";
 		}
-		void prepare_blocks(const filename_t& folder, const filename_t out_folder, 
+		void prepare_blocks(const filename_t& folder, const filename_t out_folder, const filename_t& index_path,
 			const size_t block_size, const size_t word_gen_limit)
 		{
 			using std::cout;
@@ -50,7 +51,7 @@ namespace testing
 				{
 					filler.refresh();
 					if (blocks.empty()) break;
-					serializer_type serializer(blocks[0].get_indexer().get_docids_ptr(), out_folder + "index.txt");
+					serializer_type serializer(blocks[0].get_indexer().get_docids_ptr(), index_path);
 					for (auto&& block : blocks)
 					{
 						auto name = next_filename(out_folder);
@@ -68,23 +69,161 @@ namespace testing
 			cout << "words read: " << words_count << '\n';
 		}
 
+		std::pair<std::string, std::vector<size_t>> read_line(std::ifstream& fin)
+		{
+			std::string word;
+			size_t list_size;
+			std::vector<size_t> list{};
+			size_t next_list_node;
+
+			fin >> word;
+			fin >> list_size;
+
+			for (size_t i = 0u; i < list_size; ++i)
+			{
+				fin >> next_list_node;
+				list.push_back(next_list_node);
+			}
+
+			return { std::move(word), std::move(list)};
+		}
+
+		void put_line_to_index(const std::string& word, const std::vector<size_t>& index, std::ofstream& fout)
+		{
+			fout << word << ' ' << index.size() << ' ';
+			for (auto&& i : index)
+			{
+				fout << i << ' ';
+			}
+			fout << '\n';
+		}
+
+		std::vector<size_t> merge(const std::vector<size_t>& v1, const std::vector<size_t>& v2) {
+			std::vector<size_t> result;
+			size_t i = 0;
+			size_t j = 0;
+
+			while (i < v1.size() && j < v2.size()) {
+				if (v1[i] < v2[j]) {
+					result.push_back(v1[i]);
+					i++;
+				}
+				else if (v1[i] > v2[j]) {
+					result.push_back(v2[j]);
+					j++;
+				}
+				else {
+					result.push_back(v1[i]);
+					i++;
+					j++;
+				}
+			}
+
+			while (i < v1.size()) {
+				result.push_back(v1[i]);
+				i++;
+			}
+
+			while (j < v2.size()) {
+				result.push_back(v2[j]);
+				j++;
+			}
+
+			return result;
+		}
+
+
+		void build_index(const filename_t& blocks_folder, const filename_t& output_file)
+		{
+			std::ofstream fout(output_file);
+			if (!fout.is_open())
+				throw std::runtime_error("Cannot create index file.");
+
+			std::vector<std::ifstream> files{};
+
+			for (const auto& block_path : std::filesystem::directory_iterator(blocks_folder))
+			{
+				files.emplace_back(block_path.path().string());
+				if (!files.back().is_open())
+					throw std::runtime_error("Cannot open file: " + block_path.path().string());
+			}
+
+			bool is_optimized;
+			size_t block_size;
+			std::vector<size_t> file_empty{};
+			std::vector<size_t> file_sizes{};
+			file_empty.resize(files.size(), false);
+			file_sizes.reserve(files.size());
+
+			std::vector<std::string> curr_words{};
+			std::vector<std::vector<size_t>> curr_lists{};
+			size_t open_files_left = files.size();
+
+			for (size_t i = 0; i < files.size(); ++i)
+			{
+				auto& file = files[i];
+				file >> is_optimized;
+				file >> block_size;
+				auto&& [word, list] = read_line(file);
+				file_sizes.push_back(block_size);
+				curr_words.push_back(std::move(word));
+				curr_lists.push_back(std::move(list));
+			}
+
+			auto find_min = [&curr_words]()
+			{
+				return *std::min_element(curr_words.begin(), curr_words.end());
+			};
+
+			std::string min_word;
+
+			do
+			{
+				min_word = find_min();
+				std::vector<size_t> min_word_indices{};
+
+				for (size_t i = 0u; i < files.size(); ++i)
+				{
+					if (!file_empty[i])
+					{
+						if (curr_words[i] == min_word)
+						{
+							min_word_indices = merge(min_word_indices, curr_lists[i]);
+
+							auto&& [word, list] = read_line(files[i]);
+							curr_words[i] = std::move(word);
+							curr_lists[i] = std::move(list);
+							--file_sizes[i];
+							//std::cout << file_sizes[i] << '\n';
+
+							if (file_sizes[i] == 0u)
+							{
+								--open_files_left;
+							}
+						}
+						
+						if(min_word == "") std::cout << "EMPTY!" << '\n';
+					}
+				}
+				put_line_to_index(min_word, min_word_indices, fout);
+			} while (!min_word.empty());
+
+			for (auto&& file : files)
+			{
+				file.close();
+			}
+		}
+
 		void execute_testing()
 		{
 			const size_t block_size = 5000;
 			const size_t word_gen_limit = 30000;
 			const filename_t in_folder = "Input Files/";
-			const filename_t out_folder = "Output Files/SPIMI/Blocks/";
-			prepare_blocks(in_folder, out_folder, block_size, word_gen_limit);
+			const filename_t out_folder = "Output Files/SPIMI/";
+			const filename_t out_folder_blocks = out_folder + "Blocks/";
+			//prepare_blocks(in_folder, out_folder_blocks, out_folder + "idmapper.txt", block_size, word_gen_limit);
 			
-			SingleIDMapperDocIndexerSerializer
-				<
-				std::ofstream,
-				std::ifstream,
-				typename SPIMIBlock::indexer_type
-				> serializer(nullptr, out_folder + "index.txt");
-
-			std::ifstream fin(out_folder + "6.txt");
-			auto block = serializer.deserialize(fin);
+			build_index(out_folder_blocks, out_folder + "index.txt");
 		}
 	}
 }
