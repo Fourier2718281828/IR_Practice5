@@ -8,15 +8,15 @@
 class SPIMIBlock
 {
 public:
-
 	using indexer_type = InvertedIndexer;
+	using idmapper_ptr = typename indexer_type::idmapper_ptr;
 	using reader_ptr = std::shared_ptr<IFileReader<std::string>>;
 
 public:
 
-	SPIMIBlock(const size_t max_size) :
+	SPIMIBlock(const size_t max_size, idmapper_ptr idmapper = nullptr) :
 		max_size_(max_size),
-		indexer_ {}
+		indexer_ { idmapper }
 	{
 	}
 

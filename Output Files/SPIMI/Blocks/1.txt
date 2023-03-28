@@ -1,6 +1,7 @@
-2
+3
 Input Files/1.txt
 Input Files/10.txt
+Input Files/2.txt
 0 5000
 a 2 0 1 
 abandon 1 1 

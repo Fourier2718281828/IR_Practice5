@@ -16,6 +16,8 @@ public:
 	using word_type = reader_ptr::element_type::word_type;
 	using reader_container = std::vector<reader_ptr>;
 	using iterator = typename reader_container::const_iterator;
+private:
+	using block_ptr = std::unique_ptr<SPIMIBlock>;
 public:
 
 	SPIMIFiller
@@ -37,7 +39,7 @@ public:
 	size_t read(SPIMIBlocks& blocks) override
 	{
 		size_t words_count = 0u;
-		std::unique_ptr<SPIMIBlock> block = std::make_unique<SPIMIBlock>(block_size_);
+		std::unique_ptr<SPIMIBlock> block = new_block();
 
 		while (!is_over())
 		{
@@ -52,7 +54,7 @@ public:
 				if (block->is_fool() || reached_limit())
 				{
 					blocks.push_back(std::move(*block));
-					block = std::make_unique<SPIMIBlock>(block_size_);
+					block = new_block();
 					if (reached_limit())
 					{
 						return words_count;
@@ -95,6 +97,18 @@ public:
 	bool is_over() const noexcept
 	{
 		return begin_itor_ == end_itor_;
+	}
+
+private:
+
+	block_ptr new_block()
+	{
+		using idmapper_ptr = typename SPIMIBlock::idmapper_ptr;
+		using idmapper_type = typename idmapper_ptr::element_type;
+		using spimi_block_type = typename block_ptr::element_type;
+
+		static idmapper_ptr common_idmapper = std::make_shared<idmapper_type>();
+		return std::make_unique<spimi_block_type>(block_size_, common_idmapper);
 	}
 
 private:
