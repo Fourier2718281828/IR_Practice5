@@ -73,7 +73,7 @@ namespace testing
 						cout << "name = " << name << '\n';
 						std::ofstream fout(name);
 						if (!fout.is_open())
-							throw "out folder not open";
+							throw std::runtime_error("out folder not open");
 						serializer.serialize(fout, block.get_indexer());
 					}
 					blocks.clear();

@@ -5,6 +5,7 @@
 #include <string>
 #include <algorithm>
 #include <stdexcept>
+#include <memory>
 #include "BitVectorAdapted.h"
 
 template
@@ -22,6 +23,7 @@ public:
 	using filename_type = DocNameType;
 	using filename_idmapper_type = std::vector<filename_type>;
 	using mapped_type = typename filename_idmapper_type::size_type;
+	using idmapper_ptr = std::shared_ptr<filename_idmapper_type>;
 public:
 	using policy_type = PolicyType;
 	template<typename T, typename U>
@@ -39,10 +41,16 @@ public:
 		>;
 public:
 
-	DocumentIndexer() noexcept {};
+	DocumentIndexer() noexcept :
+		_doc_mapper(std::make_shared<filename_idmapper_type>())
+	{}
+
+	DocumentIndexer(idmapper_ptr ptr) noexcept :
+		_doc_mapper(ptr)
+	{}
 
 	DocumentIndexer(dict_type&& dict, filename_idmapper_type&& mapper) noexcept :
-		_dict(std::move(dict)), _doc_mapper(std::move(mapper))
+		_dict(std::move(dict)), _doc_mapper(std::make_shared<filename_idmapper_type>(std::move(mapper)))
 	{}
 
 	DocumentIndexer(const DocumentIndexer&) = delete;
@@ -64,8 +72,8 @@ public:
 	{
 		if (!contains_docname(filename))
 		{
-			_dict.add_word(std::forward<WW>(word), _doc_mapper.size());
-			_doc_mapper.push_back(std::forward<FF>(filename));
+			_dict.add_word(std::forward<WW>(word), _doc_mapper->size());
+			_doc_mapper->push_back(std::forward<FF>(filename));
 		}
 		else
 		{
@@ -85,15 +93,15 @@ public:
 
 	const filename_idmapper_type& get_docids() const noexcept
 	{
-		return _doc_mapper;
+		return *_doc_mapper;
 	}
 
 	mapped_type get_docId(const filename_type& filename) const
 	{
 		auto docid = find(filename);
-		if (docid == _doc_mapper.cend())
+		if (docid == _doc_mapper->cend())
 			throw std::runtime_error("No such a filename");
-		return docid - _doc_mapper.begin();
+		return docid - _doc_mapper->begin();
 	}
 
 	const typename dict_type::list_type& get_list(const word_type& word) const
@@ -107,8 +115,8 @@ public:
 		{
 			for (auto&& [_, list] : _dict)
 			{
-				if (list.size() != _doc_mapper.size())
-					list.resize(_doc_mapper.size());
+				if (list.size() != _doc_mapper->size())
+					list.resize(_doc_mapper->size());
 			}
 		}
 	}
@@ -117,22 +125,22 @@ private:
 
 	bool contains_docname(const filename_type& filename) const noexcept
 	{
-		return find(filename) != _doc_mapper.end();
+		return find(filename) != _doc_mapper->end();
 	}
 
-	typename filename_idmapper_type::const_iterator find(const filename_type& filename) const noexcept
+	auto find(const filename_type& filename) const noexcept
 	{
 		return std::find_if
 		(
-			_doc_mapper.begin(),
-			_doc_mapper.end(),
+			_doc_mapper->begin(),
+			_doc_mapper->end(),
 			[&filename](const auto& pair) { return pair == filename; }
 		);
 	}
 
 private:
 	dict_type _dict;
-	filename_idmapper_type _doc_mapper;
+	idmapper_ptr _doc_mapper;
 };
 
 #endif // !DOCUMENT_INDEXER_
