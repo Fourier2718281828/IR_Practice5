@@ -161,6 +161,9 @@
     <ClInclude Include="IRefreshableFiller.h">
       <Filter>SPIMI</Filter>
     </ClInclude>
+    <ClInclude Include="SingleIDMapperDocIndexerSerializer.h">
+      <Filter>Serialization</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />

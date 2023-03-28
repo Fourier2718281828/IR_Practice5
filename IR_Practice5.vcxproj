@@ -153,6 +153,7 @@
     <ClInclude Include="PermutermIndexAsteriskHandler.h" />
     <ClInclude Include="PermutermIndexStandardFiller.h" />
     <ClInclude Include="ReversedReaderDecorator.h" />
+    <ClInclude Include="SingleIDMapperDocIndexerSerializer.h" />
     <ClInclude Include="SPIMIBlock.h" />
     <ClInclude Include="SPIMIFiller.h" />
     <ClInclude Include="SPIMITesting.h" />

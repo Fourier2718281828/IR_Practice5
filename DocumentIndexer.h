@@ -52,6 +52,11 @@ public:
 	DocumentIndexer(dict_type&& dict, filename_idmapper_type&& mapper) noexcept :
 		_dict(std::move(dict)), _doc_mapper(std::make_shared<filename_idmapper_type>(std::move(mapper)))
 	{}
+	
+
+	DocumentIndexer(dict_type&& dict, idmapper_ptr mapper) noexcept :
+		_dict(std::move(dict)), _doc_mapper(mapper)
+	{}
 
 	DocumentIndexer(const DocumentIndexer&) = delete;
 
@@ -94,6 +99,11 @@ public:
 	const filename_idmapper_type& get_docids() const noexcept
 	{
 		return *_doc_mapper;
+	}
+
+	idmapper_ptr get_docids_ptr() const noexcept
+	{
+		return _doc_mapper;
 	}
 
 	mapped_type get_docId(const filename_type& filename) const

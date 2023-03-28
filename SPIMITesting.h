@@ -6,6 +6,7 @@
 #include "SPIMIFiller.h"
 #include "LineFileReader.h"
 #include "DocumentIndexerSerializer.h"
+#include "SingleIDMapperDocIndexerSerializer.h"
 
 namespace testing
 {
@@ -14,31 +15,7 @@ namespace testing
 		filename_t next_filename(const filename_t out_folder)
 		{
 			static std::vector<int> block_names{1};
-			/*if (block_names.empty())
-			{
-				for (const auto& path : std::filesystem::directory_iterator(out_folder))
-				{
-					filename_t nxt = path.path().string();
-					filename_t base_name{};
-					nxt.pop_back();
-					nxt.pop_back();
-					nxt.pop_back();
-					nxt.pop_back();
-					while (nxt[nxt.size() - 1] != '/')
-					{
-						base_name.push_back(nxt.back());
-						nxt.pop_back();
-					}
-					block_names.push_back(std::stoi(base_name));
-				}
-			}*/
-
-			/*if (block_names.empty())
-			{
-				return out_folder + "1.txt";
-			}*/
-
-			auto max = block_names.back();//*std::max_element(block_names.begin(), block_names.end());
+			auto max = block_names.back();
 			block_names.push_back(max + 1);
 			return out_folder + std::to_string(max) + ".txt";
 		}
@@ -50,7 +27,12 @@ namespace testing
 
 			std::vector<reader_ptr> readers{};
 			SPIMIBlocks blocks{};
-			TextFileSerializer<std::ofstream, std::ifstream, typename SPIMIBlock::indexer_type> serializer;
+			using serializer_type = SingleIDMapperDocIndexerSerializer
+				<
+				std::ofstream, 
+				std::ifstream, 
+				typename SPIMIBlock::indexer_type
+				>;
 			
 
 			for (const auto& path : std::filesystem::directory_iterator(folder))
@@ -67,6 +49,8 @@ namespace testing
 				if (filler.reached_limit() || filler.is_over())
 				{
 					filler.refresh();
+					if (blocks.empty()) break;
+					serializer_type serializer(blocks[0].get_indexer().get_docids_ptr(), out_folder + "index.txt");
 					for (auto&& block : blocks)
 					{
 						auto name = next_filename(out_folder);
@@ -88,7 +72,19 @@ namespace testing
 		{
 			const size_t block_size = 5000;
 			const size_t word_gen_limit = 30000;
-			prepare_blocks("Input Files/", "Output Files/SPIMI/Blocks/", block_size, word_gen_limit);
+			const filename_t in_folder = "Input Files/";
+			const filename_t out_folder = "Output Files/SPIMI/Blocks/";
+			prepare_blocks(in_folder, out_folder, block_size, word_gen_limit);
+			
+			SingleIDMapperDocIndexerSerializer
+				<
+				std::ofstream,
+				std::ifstream,
+				typename SPIMIBlock::indexer_type
+				> serializer(nullptr, out_folder + "index.txt");
+
+			std::ifstream fin(out_folder + "6.txt");
+			auto block = serializer.deserialize(fin);
 		}
 	}
 }
