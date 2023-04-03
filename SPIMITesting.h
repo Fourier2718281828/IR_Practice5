@@ -3,6 +3,7 @@
 #include <iostream>
 #include <filesystem>
 #include <queue>
+#include <functional>
 #include "SPIMIBlock.h"
 #include "SPIMIFiller.h"
 #include "LineFileReader.h"
@@ -20,7 +21,23 @@ namespace testing
 			block_names.push_back(max + 1);
 			return out_folder + std::to_string(max) + ".txt";
 		}
-		void prepare_blocks(const filename_t& folder, const filename_t out_folder, const filename_t& index_path,
+
+		void recursive_traverse_files(const filename_t& folder, std::function<void(const filename_t&)> func)
+		{
+			for (const auto& path : std::filesystem::directory_iterator(folder))
+			{
+				if (std::filesystem::is_directory(path))
+				{
+					recursive_traverse_files(folder, func);
+				}
+				else
+				{
+					func(path.path().string());
+				}
+			}
+		}
+
+		void prepare_blocks(const filename_t& folder, const filename_t& out_folder, const filename_t& index_path,
 			const size_t block_size, const size_t word_gen_limit)
 		{
 			using std::cout;
@@ -36,11 +53,15 @@ namespace testing
 				>;
 			
 
-			for (const auto& path : std::filesystem::directory_iterator(folder))
-			{
-				reader_ptr reader = std::make_shared<LineFileReader<>>(path.path().string());
-				readers.push_back(reader);
-			}
+			recursive_traverse_files
+			(
+				folder,
+				[&readers](const filename_t& path) 
+				{
+					reader_ptr reader = std::make_shared<LineFileReader<>>(path);
+					readers.push_back(reader);
+				}
+			);
 
 			size_t words_count = 0u;
 			SPIMIFiller filler(readers, block_size, word_gen_limit);
@@ -150,13 +171,12 @@ namespace testing
 
 			bool is_optimized;
 			size_t block_size;
-			std::vector<size_t> file_empty{};
-			std::vector<size_t> file_sizes{};
-			file_empty.resize(files.size(), false);
-			file_sizes.reserve(files.size());
 
 			std::vector<std::string> curr_words{};
 			std::vector<std::vector<size_t>> curr_lists{};
+			std::vector<size_t> file_sizes{};
+			curr_lists.reserve(files.size());
+			file_sizes.reserve(files.size());
 			size_t open_files_left = files.size();
 
 			for (size_t i = 0; i < files.size(); ++i)
@@ -169,44 +189,46 @@ namespace testing
 				curr_words.push_back(std::move(word));
 				curr_lists.push_back(std::move(list));
 			}
-
+			bool fuck = std::string("aword") < std::string("bword");
 			auto find_min = [&curr_words]()
 			{
-				return *std::min_element(curr_words.begin(), curr_words.end());
+				std::string min = curr_words[0];
+				for (size_t i = 1; i < curr_words.size(); ++i)
+				{
+					if (!curr_words[i].empty() && (min.empty() || min > curr_words[i]))
+						min = curr_words[i];
+				}
+
+				return min;
 			};
 
-			std::string min_word;
-
-			do
+			while (open_files_left > 0u)
 			{
-				min_word = find_min();
+				std::string min_word = find_min();
 				std::vector<size_t> min_word_indices{};
 
 				for (size_t i = 0u; i < files.size(); ++i)
 				{
-					if (!file_empty[i])
+					if (curr_words[i] == min_word && file_sizes[i] > 0)
 					{
-						if (curr_words[i] == min_word)
+						min_word_indices = merge(min_word_indices, curr_lists[i]);
+
+						--file_sizes[i];
+						if (file_sizes[i] == 0u)
 						{
-							min_word_indices = merge(min_word_indices, curr_lists[i]);
-
-							auto&& [word, list] = read_line(files[i]);
-							curr_words[i] = std::move(word);
-							curr_lists[i] = std::move(list);
-							--file_sizes[i];
-							//std::cout << file_sizes[i] << '\n';
-
-							if (file_sizes[i] == 0u)
-							{
-								--open_files_left;
-							}
+							curr_words[i] = "";
+							open_files_left -= 1;
+							continue;
 						}
-						
-						if(min_word == "") std::cout << "EMPTY!" << '\n';
+
+						auto&& [word, list] = read_line(files[i]);
+						curr_words[i] = std::move(word);
+						curr_lists[i] = std::move(list);
+
 					}
 				}
 				put_line_to_index(min_word, min_word_indices, fout);
-			} while (!min_word.empty());
+			} 
 
 			for (auto&& file : files)
 			{
@@ -221,8 +243,8 @@ namespace testing
 			const filename_t in_folder = "Input Files/";
 			const filename_t out_folder = "Output Files/SPIMI/";
 			const filename_t out_folder_blocks = out_folder + "Blocks/";
-			//prepare_blocks(in_folder, out_folder_blocks, out_folder + "idmapper.txt", block_size, word_gen_limit);
 			
+			prepare_blocks(in_folder, out_folder_blocks, out_folder + "idmapper.txt", block_size, word_gen_limit);
 			build_index(out_folder_blocks, out_folder + "index.txt");
 		}
 	}

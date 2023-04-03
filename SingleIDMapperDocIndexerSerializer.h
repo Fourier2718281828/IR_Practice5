@@ -20,7 +20,7 @@ public:
 	(
 		idmapper_ptr idmapper,
 		const filename_t& idmapper_filename
-	) noexcept :
+	) :
 		idmapper_{ idmapper },
 		idmapper_filename_(idmapper_filename)
 	{
